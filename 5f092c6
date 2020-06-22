@@ -1,0 +1,5259 @@
+[33mcommit 5f092c6593bcec6acdbf915fe168e31358549bf7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: junliang <zhangjunliang@outlook.com>
+Date:   Thu Feb 6 15:03:20 2020 +0800
+
+    PRAFECT to PERFECT
+
+[33mcommit 40294113775bc50c568af8f23cbfc8605c1205b2[m
+Author: junliang <zhangjunliang@outlook.com>
+Date:   Thu Feb 6 14:52:53 2020 +0800
+
+    submit changes
+
+[33mcommit ebbcdf5c956a0cc6dc145fbabce2b1192238d8f0[m
+Author: junliang <zhangjunliang@outlook.com>
+Date:   Thu Feb 6 14:23:01 2020 +0800
+
+    pratise to add a file
+
+[33mcommit e2efeb8c012eba7f641a63a9d0f20cccb47c9b63[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 15 11:07:34 2020 +0800
+
+    code modified.
+
+[33mcommit b20e3b092696cc0e098377345ffc56063768d7eb[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Jan 31 11:05:28 2020 +0800
+
+    3 places modified for file name change "Q.good-communiation" typo
+
+[33mcommit c24c35c2b13528316f77c4b6a8a12fd90c032f27[m
+Author: LuckyQingq <51191422+LuckyQingq@users.noreply.github.com>
+Date:   Thu Jan 2 20:39:31 2020 +0800
+
+    Rename Q.good-communiation.ipynb to Q.good-communication.ipynb
+
+[33mcommit c7eb29d6916a42970698829f6bdcd3ce7e25714d[m
+Author: wenzihere <jmboc@foxmail.com>
+Date:   Sun Jan 12 20:28:59 2020 +0800
+
+    Update Part.2.C.why-start-from-writing-functions.ipynb
+    
+    增加了自己两个字
+
+[33mcommit 32cd0a36122944ed2e119ed56d1d9dbb0ab808c1[m
+Author: sodexx7 <sodexx7@gmail.com>
+Date:   Tue Jan 14 20:58:48 2020 +0800
+
+    Update Part.1.G.The-Python-Tutorial-local.ipynb
+    
+    批量转换 rst 至 ipynb
+    命令 rst2ipynb $f -o “${f/%.rst/.ipynb}”  中的双引号应该去掉，mac环境执行完成之后，转换后生成的ipynb文件名称都带有双引号。
+
+[33mcommit 97b27e6cd908dcd14d78b8a61e0d2b072dcc19f9[m
+Author: jarodlong <54735562+jarodlong@users.noreply.github.com>
+Date:   Fri Oct 18 10:35:53 2019 +0800
+
+    老生常谈的思考
+    
+    笑来老师的自学是门手艺，其实包含了终身学习
+
+[33mcommit fe364e73c70204e832223a60fc9a7bf2cb44e7db[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Thu May 30 18:12:04 2019 +0800
+
+    line 220: 改“扩起”为“括起”
+
+[33mcommit 1ca4914bac5c6e66b1e30e2eac752f78e681b273[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Fri May 24 12:35:38 2019 +0800
+
+    Create sxuya-selfteaching-story.md
+
+[33mcommit 569308534cd15088dbe64f2c8a94b38f0b6d04fe[m
+Author: zhangmmmin <15297916692@163.com>
+Date:   Thu May 30 00:15:43 2019 +0800
+
+    Create zhangmmin-selfteaching-camp-story.md
+
+[33mcommit a789ed1d2c03c1e49e09275ffaf4f8ff147840da[m
+Author: LX <lyxzaiguge@gmail.com>
+Date:   Sun Jun 2 19:55:29 2019 +0800
+
+    Create liuyunxin-self-teaching-storise.md
+
+[33mcommit 41311bba38747b9561f6d0b14a08e83a19672d57[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu May 16 11:48:14 2019 +0800
+
+    By tymcmf #778
+
+[33mcommit 497e5a660ca14dd17d74e722e56568f2b03bfec4[m
+Author: tymcmf <tzlben.1985@gmail.com>
+Date:   Thu May 16 07:21:25 2019 +0800
+
+    Update Part.1.E.7.files.ipynb
+    
+    更新「删除文件」部分默认输出的f.name -> /temp/text-file.txt，以符合真正的代码
+
+[33mcommit a54841345b67c3f1c49b8311168d207cb181645e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu May 16 00:03:00 2019 +0800
+
+    sync markdown files
+
+[33mcommit db595efb4a7be2cc2a4fc8d1cd577bf2cd61d010[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 14 08:55:54 2019 +0800
+
+    Part.1.C.must.learn.sth.only.by.reading语句“没人教、没人带，没人逼，就彻底没戏”中“没人教、”后面的“、”应改为“，”
+
+[33mcommit fa73d9e963018a0df7d9974cbc3f759297bc5b21[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 14 09:05:47 2019 +0800
+
+    Part.1.C.must.learn.sth.only.by.reading语句“首先，它们的存在说明，商业这事是有迹可循的，是可学习的。”中“是可学习的。”后面的“。”根据上下文应改为“；”
+
+[33mcommit 9c3dba695ba73af7cd8eb0a6b41f66695ab25a99[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 14 09:30:47 2019 +0800
+
+    Part.1.G.The-Python-Tutorial-local之1.2. 为什么一定要阅读官方文档——语句：但在很多人那里竟然变成了 “从一开始到最后都在回避官方文档（或者说 ‘最专业的说明文字’）——末尾缺少双引号后半部”
+
+[33mcommit d7b63346a0d2b022d36380aeb5c6f9d582f68ad8[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 14 14:16:20 2019 +0800
+
+    Part.2.A.clumsy-and-patience中语句“ 因为他们在第一个阶段就出错，到了第二个阶段就放弃，第三个阶段是直接跳进去的”，其中“第三个阶段是直接跳进去的”该修改为“第三个阶段是直接跳过去的”
+
+[33mcommit bd411f2475d65390a0618d3f535658066d8378de[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Tue May 14 15:54:55 2019 +0800
+
+    line: 251，“命令”改为“Method”
+
+[33mcommit a56637cccbf0f53e3d5e62ddf4d281969d2b7c0b[m
+Author: zhaorongcun <zhaorongcun@baidu.com>
+Date:   Sun May 12 14:21:57 2019 +0800
+
+    修改因为少了一个右括号导致的markdown语法显示错误
+
+[33mcommit 3d168003317833bd3f5ae0b65606b86c23190aa6[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 10 11:02:26 2019 +0800
+
+    From wangpeiran 23 #748
+
+[33mcommit 6fbf4c1213a27bba91ae79723e940777d3dcaf3f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 10 11:01:51 2019 +0800
+
+    From wangpeiran 23 #748
+
+[33mcommit 258c045caf6c18318f44489bacd98bd4f82d0c6c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sun May 5 16:29:02 2019 +0800
+
+    Update Q.good-communiation.ipynb
+    
+    优化表述
+
+[33mcommit 058621f063af4cae3432787d4f7105dcf2dfe181[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 96305ba109ad5e84d6fe4443db9f24ee52530282[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 5b92bb2340bec4ef49cd09a1f80708c134e29abf[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 10 10:59:51 2019 +0800
+
+    From wangpeiran 24 #749
+
+[33mcommit 9e5344a9fc232858860474bdff26c088e2610394[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sun May 5 16:34:28 2019 +0800
+
+    Update Part.3.B.3.decorator-iterator-generator.ipynb
+    
+    装饰带有参数函数 --> 装饰带有参数的函数
+
+[33mcommit e8ef9eaa30e33c5cfa2e23daff5cb685720830c7[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 05f509bcb2b56b888725d6c10261be125d5f3468[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 36bf9ae7fbdec78211b9579f5d2cc1506c78af7f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 10 10:58:01 2019 +0800
+
+    From wilton #756
+
+[33mcommit a448ff82107d0fd0e3d9dcdbcc3173a26c591e82[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 10 10:54:36 2019 +0800
+
+    line：2709 “换成”修改为“转换成” #760
+
+[33mcommit c8d6ae02ca8d4abfafd5b7937676a994a07816db[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Fri May 10 08:17:50 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    line: 2709 “换”改为“转换”
+
+[33mcommit 096b93973a73693f050bc52328f2e262c0c1f342[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 7 10:36:42 2019 +0800
+
+    Part.1.E.2.values-and-their-operators .1.1.值——Literal 的意思是是“字面的”，多了一个“是”，需删除。
+
+[33mcommit 870566f0d8d9a35f0ea0b369ac83e62ddd2da373[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Tue May 7 10:34:39 2019 +0800
+
+    Part.1.E.2.values-and-their-operators .1.1.值——Literal 的意思是是“字面的”，多了一个“是”，需删除。
+
+[33mcommit d7304b2898daf7b7aa32f4a31531ab2fca863311[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Sun May 5 21:57:57 2019 +0800
+
+    PR_12_addTipOfPicAboutScope
+    
+    add a tip about Scope
+
+[33mcommit 5ddd49c1e9d535afa635c5d27d405b0999d192bc[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 3 22:12:20 2019 +0800
+
+    From wangpeiran 19 #714
+
+[33mcommit 7f9ca7fa8a9fc19184116327a51b19353a227e6c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Wed Apr 24 10:27:04 2019 +0800
+
+    Update Part.2.D.8-main.ipynb
+    
+    数量描述有偏差。
+    
+    实际数量为370101个词汇，挑出了3771个词汇;但发现准确的数值描述影响阅读流畅度，改为了 ”xx个 --> xx多个“。
+
+[33mcommit f8a763d5c7a72fc97a58cc1c73266586b4881253[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 823138fb2a18d193d85ab6a276713567265328a7[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit a0df576f73521af9f4b2b3545505e6a1190165b4[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 3 22:11:01 2019 +0800
+
+    From wangpeiran 16 #709
+
+[33mcommit 43c24b59e9cd887f36ac1abc831dea259e1e5fe5[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Tue Apr 23 10:35:33 2019 +0800
+
+    Update Part.2.D.6-modules.ipynb
+    
+    优化表述
+
+[33mcommit a39922616244d2f2c19569e36852d743ea8023c2[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 6f1a08d2ffd40a071c516b52516a70687936e831[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 0d5409d96317919e0bff200e9229a4864123b208[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 3 22:09:48 2019 +0800
+
+    From wangpeiran 18 #711
+
+[33mcommit 2874af7b430e75084f571d03dc69c668b02b588c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Tue Apr 23 21:07:02 2019 +0800
+
+    Update Part.2.E.deliberate-thinking.ipynb
+    
+    优化表述
+
+[33mcommit 7c71550072728c1b6eadba485a134db7f834b11d[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 48198933bed5acc3516bf0882ef75ee05f35b2ef[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 8cc0b417c468fe3ae8ff68229451c6bfd3defd12[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Wed Apr 24 16:11:37 2019 +0800
+
+    PR_12_addExplainOutputs
+    
+    每个人的电脑库安装情况会不同，如果新手自行安装了，就简单解释一下。
+
+[33mcommit 506b7a75d06075f7ddee1ab6256f5fbbc1c18aec[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri May 3 22:05:23 2019 +0800
+
+    Update T-appendix.jupyter-installation-and-setup.ipynb #741
+
+[33mcommit bc7beb07a0838121fa6bb0b7bdf330f8b373cf87[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 30 21:46:52 2019 +0800
+
+    sep在这里实际不起作用，或许可改为end。 #713
+
+[33mcommit 677f2b803a20b23b1335e0e9d1704c73e05d417f[m
+Author: lstry <lstry@users.noreply.github.com>
+Date:   Wed Apr 24 10:10:56 2019 +0800
+
+    Update Part.3.B.3.decorator-iterator-generator.ipynb
+
+[33mcommit 205674a0812bb93a93036ebd734e13bc55a45a91[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 30 21:26:12 2019 +0800
+
+    From wangpeiran 22 #735
+
+[33mcommit 12f4e6d84b024e3386546eb70de85f0c2a1e1f6f[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 29 12:05:29 2019 +0800
+
+    Update Part.3.B.4.regex.ipynb
+    
+    统一`[ ]`称呼。中括号 --> 方括号
+
+[33mcommit b6fd6112e41f0260ebde6b479bc98de8df4f6894[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit ab5fa19f038940b45e6e3eb8630dd5490679e762[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit e408fc2efcb6b4264c09d5562e35042feb49bf10[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 30 21:23:08 2019 +0800
+
+    From wangpeiran 20 #727
+
+[33mcommit aa64cdb845d9c59e0f85fd9894c15ddc738e4660[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 26 13:57:09 2019 +0800
+
+    Update Part.3.B.2.classes-2.ipynb
+    
+    左括号重复
+
+[33mcommit 609770f77e8fc181e935225580b392d1fa313afa[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 26 09:47:42 2019 +0800
+
+    Update Part.3.B.2.classes-2.ipynb
+    
+    优化表述
+
+[33mcommit 22ff0151cbdf5c5ce2b428a4ea86baca54c141a1[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit d3e952c8f520f24185279a90341024e30d7902d8[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit b109d28bb8651f438187388a176fd2b1f73df623[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 30 21:21:16 2019 +0800
+
+    By yaoyouzhong #721
+
+[33mcommit e15e94fcf74004e067cc7dc9e49a171447215f4d[m
+Author: yaoyouzhong <yaoyouzhong@gmail.com>
+Date:   Wed Apr 24 17:03:42 2019 +0800
+
+    \f 是分页符
+
+[33mcommit 2bc51d5fac97bf1f38107b75764e4da96bcd18a8[m
+Author: Huo Ju <virushuo@gmail.com>
+Date:   Wed Apr 24 01:09:09 2019 -0400
+
+    markdown files updated: write the sample file to the /tmp path
+
+[33mcommit 98bad71491db9e4392cf9bdcef44021cb3dd8a67[m
+Author: Huo Ju <virushuo@gmail.com>
+Date:   Wed Apr 24 00:52:01 2019 -0400
+
+    write the sample file to the /tmp path
+
+[33mcommit d8a27d7c7b6bc00d86b8e10cf3f9f5e8f0ae985c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 17:31:40 2019 +0800
+
+    From wangpeiran 15 #708
+
+[33mcommit 96fc4154de6b1a4e296c637e527c227e728cb690[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 22 17:26:24 2019 +0800
+
+    Update Part.2.D.4-recursion.ipynb
+    
+    优化表述
+
+[33mcommit a02a73ba1e11063c4343db0526d2089a96813543[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 3c3d19515011aeafc633baf8bc3f93d288b19c26[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit b6ec087d6f0efa4826dbf5acec1144ac4dd23a80[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sun Apr 21 09:34:20 2019 +0800
+
+    Update Part.2.B.deliberate-practicing.ipynb
+
+[33mcommit b8058d6b867c79c7709057106314d4cce8118ef6[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sun Apr 21 09:32:46 2019 +0800
+
+    Update Part.2.B.deliberate-practicing.ipynb
+    
+    markdown 标注失误 —— 标注粗体符号（**)与标注文本间有空格，导致标注无效。
+
+[33mcommit 6f1ee9d4269ce6371009ff4d8be71a39224b0ce3[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit a8081231df85dd5035512be0e9ddfa0d832384a5[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 4608c2c6c7a338e245e9079aee24bd162a4567ca[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:32:54 2019 +0800
+
+    From wangpeiran 14 #702
+
+[33mcommit 1faa0f492907b8e9f5e07392c2eeda66956881c2[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sun Apr 21 08:48:53 2019 +0800
+
+    Update Part.2.B.deliberate-practicing.ipynb
+    
+    跨不去 ---》 跨不过去
+
+[33mcommit 7883ff7fd3164c21a14fe3718716595fbe23e30c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 02e00d1afa134cd0c4c2fd0c81bc5c7fa175a595[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit bfa6ba168d7bc4bee193e73665d9697b95878c78[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:31:52 2019 +0800
+
+    From wangpeiran 13 #701
+
+[33mcommit 61367cfde39727eaf13b51da2e6027d18c019c61[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:30:21 2019 +0800
+
+    From wangpeiran 12 #699
+
+[33mcommit 4eea811f34b7eaf0fedad70a4bff98346d56be5c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Sat Apr 20 16:38:59 2019 +0800
+
+    Update Part.1.G.The-Python-Tutorial-local.ipynb
+    
+    2019/4/20/14：33 接收到的文件大小为 274.87MB。
+    
+    按流程制作的三个版本（ipynb、html、epub）的 python tutorial 都没问题。只有最后的完整版的 python Doc 报错未制作成功。（linux系统上的执行结果）
+
+[33mcommit 3c1ef67cd10f755c80ac7e9beecbc71996b8ff8e[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 4fc361e964f1c70c33d6e048560a9235c32dc71c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit c62148d3132ee90784ab1f2158b5805e942189d6[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:28:22 2019 +0800
+
+    From wangpeiran 11 #697
+
+[33mcommit 9bc65f92d65f8cdd89ddb6b924a563241f1f37bc[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 20:58:53 2019 +0800
+
+    Update Part.1.F.deal-with-forward-references.ipynb
+    
+    知识讲解 ---》 知识结构
+
+[33mcommit e62420945bdece4e4f89f7f9a42b648512bdc449[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:16:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 6fea4b298748a90ba5c8720316494a3bc75e116d[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 3ebe066995a3b1fe66294596803c78f2d4e3111a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:27:04 2019 +0800
+
+    From wangpeiran 10 #696
+
+[33mcommit b868978fbbb87826f58077459b827ae196aa40d0[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:13:01 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit b70ddba72ba3c62adc26d0ec8688917b087f3e7d[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 17:07:51 2019 +0800
+
+    Update Part.1.E.7.files.ipynb
+    
+    提供的数值不一致
+
+[33mcommit 37957f23bda4ac02cdf981f71b4f2f347bee97db[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:41:33 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 946c0c7d1315d98d2942298a15751e9965772d4d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:22:04 2019 +0800
+
+    134bfc3
+
+[33mcommit 134bfc329ad7a63d60a8fb36925851ef0f760086[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 22 16:21:40 2019 +0800
+
+    Update Part.1.B.why.start.from.learning.coding.ipynb
+
+[33mcommit 0f06984cc0930e763a5948911d5f8f1dd4c41bcf[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 19 11:09:00 2019 +0800
+
+    add space around 0
+
+[33mcommit 5f7ca4fd8a06b6d9ee75cc90929a59826f5af013[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 19 11:08:18 2019 +0800
+
+    From wangperian 9 #694
+
+[33mcommit 450d7162d46241e58f98bea624c1a0bdb256954f[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Fri Apr 19 11:03:57 2019 +0800
+
+    Update Part.1.E.7.files.ipynb
+    
+    优化表述
+
+[33mcommit d9736d472ce37621568fc99a2b6050731bcae7ba[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 19 11:02:47 2019 +0800
+
+    从目录引入模块需目录下包含 “__init__.py” 文件 #692
+
+[33mcommit 4134f176a27ec84635f4a75a10cbd51acf2646f6[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 19 11:01:20 2019 +0800
+
+    format punctuations
+
+[33mcommit 1158ef7d97c4fbbf2331ba062736f086d3fce716[m
+Author: leaf <auroroa@qq.com>
+Date:   Fri Apr 19 10:13:32 2019 +0800
+
+    从目录引入模块需目录下包含 “__init__.py” 文件
+    
+    补充从目录引入模块的说明：且该目录下同时要存在 [`__init__.py`](https://docs.python.org/3/reference/import.html#regular-packages) 这个文件（通常为空文件，用于标识本目录形成一个包含多个模块的 **包**（[packages](https://docs.python.org/3/reference/import.html#regular-packages)），它们处在一个独立的 **命名空间**（[namespace](https://docs.python.org/3/glossary.html#term-namespace-package)））
+
+[33mcommit e8df69e2af92802a83fd7e7cda38964873bf53af[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 19:11:33 2019 +0800
+
+    By yaoyouzhong #684
+
+[33mcommit f965b16caaaf7843b54f6ff6a6740dbcfaaf0148[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 19:11:09 2019 +0800
+
+    Update Part.3.D.indispensable-illusion.ipynb
+
+[33mcommit 31f66f65e01b2025dd31f4dce126a1a0d71df2e9[m
+Author: yaoyouzhong <yaoyouzhong@gmail.com>
+Date:   Thu Apr 18 17:54:28 2019 +0800
+
+    add "encoding='UTF-8'" on line 297
+    
+    add "encoding='UTF-8'" on line 297
+    ---------------------------------------------------------------------------
+    UnicodeDecodeError                        Traceback (most recent call last)
+    <ipython-input-21-7a1b58a9bc74> in <module>
+          7     if '.ipynb' in f:
+          8         with open(f, 'r') as file:
+    ----> 9             str = file.read()
+         10             pttn = r'markdown'
+         11             r = re.findall(pttn, str)
+    
+    UnicodeDecodeError: 'gbk' codec can't decode byte 0xaa in position 123: illegal multibyte sequence
+
+[33mcommit 89b9fd48d1a5875c9330f977a721df96c644e0d9[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 19:09:06 2019 +0800
+
+    From wangpeiran 8 #685
+
+[33mcommit 05cdb90b80dbea9c47ca9bc3d794be8c4ca55acf[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Thu Apr 18 17:59:33 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    赋值符号‘=’，前后添加空格分隔。
+
+[33mcommit 4111eb1c34c17ca88f15ec542feea83e922626d9[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 19:04:52 2019 +0800
+
+    英文单词file.readlins拼写少个字母e #687
+
+[33mcommit 70949819fd461130d4a08ca28d821fca53145c6b[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Thu Apr 18 18:37:04 2019 +0800
+
+    Part.1.E.7.files中1.3.读写文件第4个Demo程序前的文字说明——与之相对的，我们可以使用 file.readlins() 这个命令——其中英文单词file.readlins拼写少个字母e
+
+[33mcommit 6a205b1bdb4a4ca515ce59c200d6797663791615[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Thu Apr 18 18:56:47 2019 +0800
+
+    Part.1.E.6.containers中1.5.字典（Dictionary）关于 key:value “自动去重”的补充说明——（或者说，最后一个 key:value “之前那个 key 的 value 被更新了”。——这句话缺括号的后半部“右括号”。
+
+[33mcommit da79619ec3020e59c14d3782ddfc410cf8408463[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 14:31:24 2019 +0800
+
+    Update Part.1.E.6.containers.md
+
+[33mcommit 3572a21b67a18ef7b26c81fe0a101ac633d2bcd0[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 14:30:43 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+
+[33mcommit 9c2a63849f34ec5e5b10d0fbdf4eb3e19ce180bf[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Thu Apr 18 11:26:26 2019 +0800
+
+    warnMax()Min()DifferFromLen()
+    
+    提醒新手注意不同的 method 应用的是不同的 list，我是直接看上面紧接着的 list ，导致一直困惑：为什么不是数字最小？
+
+[33mcommit b33c886cbc226ccb4d13e8e44b8fbc0e634b513c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 18 14:28:37 2019 +0800
+
+    From wangpeiran 7 #682
+
+[33mcommit 7f299ddfc6a840f962c84fa2be3e9a21d0202a50[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Thu Apr 18 14:07:12 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    copy()为无效的函数。通过测试与查看官方文档中的内建函数，确定copy()为非内置函数且未被定义。
+    
+    在帮助文档中找到复制set的方法，可以使用set.copy() method去实现。不知道是否指的是 set.copy() method ？
+
+[33mcommit 26f88f2c069fc1b083ad5bc6e37526a13ae92f78[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Thu Apr 18 09:57:17 2019 +0800
+
+    Part.1.E.6.containers中1.5.字典（Dictionary）关于 key:value “自动去重”的补充说明——或者说，最后一个 key:value “之前那个 key 的 value 被更新了”。——这句话少个括号的后半部。
+
+[33mcommit 0cfae5fdad776de310208fe4270bad95e7b6060c[m
+Author: 王沛然 <45680845+wpeiran@users.noreply.github.com>
+Date:   Wed Apr 17 19:24:45 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    优化表述。原表述容易产生理解错误。
+    
+    通过测试发现，max()与min()函数只能在“具有相同类型值的列表”（都是数字或者都是字符串）中进行比较。
+    
+    在具有混合类型值的列表上，使用max()与min()函数会报错：TypeError: '>' not supported between instances of 'str' and 'int'。例如，例子中的c_list列表使用max()与min函数就会报错。
+    
+    实际情况是，max()与min()函数并不能“比较字符和数字”。它们只能在字符之间或者数字之间进行比较。因此，修改表述后，更容易理解上不出现偏差。
+
+[33mcommit d299e1d808d4a59b5033df8cb9edb5f100cccb2a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Apr 17 02:13:12 2019 +0800
+
+    "s.lower().startswith('b', 10): True\n" #664
+
+[33mcommit c3478c14a496327237bbc752ff8edcb317a03f34[m
+Author: lstry <lstry@users.noreply.github.com>
+Date:   Tue Apr 16 14:58:30 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    "s.lower().startswith('b'): True\n" -->"s.lower().startswith('b', 10): True\n"
+
+[33mcommit 2bb9b8a361f6b7748587bc15282aa5cfbf372a32[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 16 15:16:39 2019 +0800
+
+    首位 -> 首尾
+
+[33mcommit ec2906568b03e7d4d0353b1cf5b4193e250e334b[m
+Author: neo00007 <mr.yliu@gmail.com>
+Date:   Tue Apr 16 10:44:21 2019 +0800
+
+    Correct parenthesis position error
+
+[33mcommit be10a1cb278c412f965a20a37536bc9979920196[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 16 11:21:34 2019 +0800
+
+    Correct parenthesis position error #661
+
+[33mcommit 8e58e8f0c6065ba3bffe17d37d58f7ae3c21f81d[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Mon Apr 15 19:33:33 2019 +0800
+
+    addExplainationHowStrip()Work
+
+[33mcommit 3fcba6cc8fa0de782e8273809446523ce66c3640[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:42:04 2019 +0800
+
+    Revert "Update Part.1.E.5.strings.ipynb"
+    
+    This reverts commit f8f18e90c40a92e9aff8621592e45c52a2cd064c.
+
+[33mcommit 8216aa374e6c71eb864b8cce04aeabf9c88b92b3[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:42:04 2019 +0800
+
+    Revert "Update Part.1.E.5.strings.ipynb"
+    
+    This reverts commit 17013ef620e5f21a4553378e4d42bd7ec76e79fa.
+
+[33mcommit 17013ef620e5f21a4553378e4d42bd7ec76e79fa[m
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 15 19:00:37 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    注释错误
+
+[33mcommit f8f18e90c40a92e9aff8621592e45c52a2cd064c[m
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 15 18:46:06 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    “无用的注释”或者说“注释错误”
+
+[33mcommit 5c945c5e67d6c93587db995c05c78b01a21a5271[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Mon Apr 15 18:06:08 2019 +0800
+
+    addExlplainationOfExample
+    
+    第一次出现“实例”这个名词，作为新手，我第一次是看不懂这个词所表达的意思。
+    
+    尝试做一个感性理解的注释。
+
+[33mcommit 63c57c2eff7ce5e81e64065139adb0e8c65cc399[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:38:01 2019 +0800
+
+    From wangperian #651
+
+[33mcommit 6120567056dd569a0aca5eb15e0e5252d5c9b868[m
+Merge: 9e0826a afddf31
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:36:38 2019 +0800
+
+    Merge pull request #651 from wpeiran/from_wangperian
+    
+    From wangperian
+
+[33mcommit 9e0826ac0d033d0a40277f7d37f7bae6a4f976ba[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:35:46 2019 +0800
+
+    教书，没上过师范课程 修改 #650
+
+[33mcommit c871638086bc33f0baf14cc1fb5b0bed142da2c9[m
+Merge: 7dbdc4e ac99ea3
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:35:07 2019 +0800
+
+    Merge pull request #650 from D-Naka/master
+    
+    教书，没上过师范课程 修改
+
+[33mcommit 7dbdc4e50514b009cad2b1b4080250d424d131fa[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:33:52 2019 +0800
+
+    Part.1.E.6.1.2.5.Methods中关于Demo程序注释问题 #647
+
+[33mcommit c9b6daabff6f2b182edac3f6a65c244b251ddd2f[m
+Merge: c9f2568 7fb890a
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 23:32:34 2019 +0800
+
+    Merge pull request #647 from WengYadong/master
+    
+    Part.1.E.6.1.2.5.Methods中关于【可变序列还有一系列可用的 Methods】Demo程序注释问题
+
+[33mcommit afddf31213e03fb6537b835b13a8ee6dad97cdd5[m
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 15 17:53:47 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    遗漏一个可选位置参数，导致展示出来的代码与实际执行的代码不同。
+    展示出来的代码：s.lower().startswith('b')
+    实际执行的代码：s.lower().startswith('b'， 10)
+
+[33mcommit ac99ea319a7ae23250679832be22a08247b54c4c[m
+Author: Naka <13087405+D-Naka@users.noreply.github.com>
+Date:   Mon Apr 15 17:43:17 2019 +0800
+
+    教书，没上过师范课程 修改
+    
+    教书，没上过师范课程；投资，更没人能教我。去掉一个更，读起来顺口些
+
+[33mcommit bcf09e5757b8662bb164db4b73c4849caea323cc[m
+Merge: 14dae41 c9f2568
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Mon Apr 15 17:19:34 2019 +0800
+
+    Merge pull request #3 from selfteaching/master
+    
+    update repo
+
+[33mcommit 7fb890ad62edd106284fcd6145da21ccac220139[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Mon Apr 15 16:45:46 2019 +0800
+
+    Part.1.E.6.containers.1.2.5.Methods中第2个Demo程序中最后一块注释改进建议（我是编程小白学习者，觉得这样改进好理解，如我理解错误了，请笑来老师见谅！）
+
+[33mcommit 7dfdf75af82289b7d09aa661120f76e765205563[m
+Author: WengYadong <wengyadong@gmail.com>
+Date:   Mon Apr 15 16:21:37 2019 +0800
+
+    Part.1.E.6.1.2.5.Methods中【可变序列还有一系列可用的 Methods:......】Demo程序中【演示拷贝 .copy() 与赋值 = 的不同】的注释【# 对 e_list 操作，相等于对 d_list 操作】应改为【# 对 e_list 操作，相当于对 d_list 操作】
+
+[33mcommit c9f25689cfd936e42d90f7388d32b31d761d7beb[m
+Merge: 78b162c a77be7c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 14:05:54 2019 +0800
+
+    Merge pull request #646 from lyricat/master
+    
+    use absolute image url in markdown files
+
+[33mcommit a77be7c3b0da6cc9c82bc0a0193a0b810efd2264[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Mon Apr 15 11:42:08 2019 +0800
+
+    use absolute image url in markdown files
+
+[33mcommit 78b162ccd9db0ecefad9312f593acff139f3ba4b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 09:43:33 2019 +0800
+
+    Yukie git.basic.tutorial #643
+
+[33mcommit 61e7138f81d14f1ad5d66cf0fe1cf52706ebf1d1[m
+Merge: 2af2b22 22c2a69
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 09:42:52 2019 +0800
+
+    Merge pull request #643 from YukieChen/yukie-git.basic.tutorial
+    
+    Yukie git.basic.tutorial
+
+[33mcommit 22c2a69eb5f058de6c8798c8ffa348b9830adb50[m
+Author: Yukie Chen <YukieChen@gmail.com>
+Date:   Mon Apr 15 01:44:12 2019 +0800
+
+    Update 02.proof-of-work.ipynb
+    
+    为『如何使用 Pull Request 为这本书校对』的第三项增加说明
+
+[33mcommit 4c0894498a60106b5d3a576cfcb303a37395b9eb[m
+Author: Yukie Chen <YukieChen@gmail.com>
+Date:   Mon Apr 15 01:38:34 2019 +0800
+
+    Update 02.proof-of-work.ipynb
+    
+    為『如何使用 Pull Request 为这本书校对』第三項增加說明
+
+[33mcommit 2af2b2216919aff223300f96d447060620950a0a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 00:24:07 2019 +0800
+
+    typo: fomrat -> format
+
+[33mcommit 3035221dc03054521a6cb0f3e89facff33a4c7f0[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 00:07:35 2019 +0800
+
+    Update Part.1.E.7.files.ipynb #635
+
+[33mcommit 57bf5a687afd9ab64c618f6592765be9c87fb50a[m
+Merge: 12ce977 73a39c4
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 00:06:22 2019 +0800
+
+    Merge pull request #635 from 355ml/master
+    
+    Update Part.1.E.7.files.ipynb
+
+[33mcommit 12ce9774435cff934d2ae1f3982ab13dab4a4f93[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 15 00:06:12 2019 +0800
+
+    Update Part.1.E.7.files.ipynb #635
+
+[33mcommit 0d00f52d2e3be949af94cb3dbe0ad078dc489019[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 21:41:25 2019 +0800
+
+    fix typo
+
+[33mcommit c60b3dfa829566c28814d93b8de349fbd269651d[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 21:36:19 2019 +0800
+
+    fix images path
+
+[33mcommit 334812ef8201640ac685aa34eaa26c8dcbdcfcc2[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 21:35:18 2019 +0800
+
+    update TOC
+
+[33mcommit efa4a0c6e34a7e7307776a314c9c105937b35267[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 21:33:15 2019 +0800
+
+    update TOC
+
+[33mcommit 706a0cdd10378c7853332a90bfb01b193b5d446c[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 18:58:19 2019 +0800
+
+    fix image path
+
+[33mcommit 856ddfd4d1fcf5d79eb10f59b81a74b8112f0646[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 18:56:56 2019 +0800
+
+    add TOC.md; fix image path
+
+[33mcommit b2d85f03caefb036804e0d63cc9e1b47c32c8409[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Sun Apr 14 22:53:07 2019 +0800
+
+    modifySummaryOfStepsOFPR
+    
+    提交 PR 的步骤的总结**漏掉**了很关键的一步——创建新的 branch 进行修改再提交 PR。（导致我起初总是以为是用 master 进行 PR，第一次可以成功，但是第二次就无法成功了。因为这样操作后，master 就基本无法正常和 upstream 进行同步了）
+    
+      "> * 提交 Pull request 之前，必须先将你的 Fork 与原仓库同步到最新；\n",
+    ==>
+        "> * 提交 Pull request 之前，必须先将你的 Fork 的 master 与原仓库同步到最新；\n",
+        "> * 从 master 创建 **新的 branch** 进行增补、修改等操作；\n",
+
+[33mcommit 73a39c487753dd30a6be12a2405b8067c309d99f[m
+Author: 355ml <chyoufeng@gmail.com>
+Date:   Sun Apr 14 13:11:18 2019 +0800
+
+    Update Part.1.E.7.files.ipynb
+    
+    增加了对“file.readlines()”命令的解释
+
+[33mcommit c62da4c7e894b3c9c48c419d94f5e7221abb282b[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Sun Apr 14 00:12:19 2019 +0800
+
+    Add a symbol link to images folder.
+
+[33mcommit 5e53cd0fdc91b5e2c847f29573b4453cf5c47eff[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 14 08:20:57 2019 +0800
+
+    删除“当” #633
+
+[33mcommit fb91fd2db3af2b6de8d3385de7ae72c783a6b7a1[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 14 07:00:12 2019 +0800
+
+    删除“当”
+    
+    “一旦”已经包含了“当”的意思
+
+[33mcommit fa205fffbf68b447710c0f4432e3f8b0baaaea5a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 23:55:38 2019 +0800
+
+    关于 3.B.4.regex 的建议（基于 Commits at 3003938） #624
+
+[33mcommit 1ae8dd3465ed2fe49688abb8b65a7b6761b094e3[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 23:55:01 2019 +0800
+
+    关于 3.B.4.regex 的建议（基于 Commits at 3003938） #624
+
+[33mcommit a29049831bb2aee3670035229e215bdf23e620aa[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 23:41:55 2019 +0800
+
+    关于 3.B.4.regex 的建议（基于 Commits at 3003938） #624
+
+[33mcommit 81a474f19f580425c91f1a784742e7fbe5b4011d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 23:38:18 2019 +0800
+
+    关于 3.B.4.regex 的建议（基于 Commits at 3003938） #624
+
+[33mcommit c6123f6ab61f1a0288a29dcb5d39188e90a596c6[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sat Apr 13 19:30:14 2019 +0800
+
+    搜索 -> 收缩
+    
+    收缩，与“扩张”对应
+
+[33mcommit 812542c6cfe21350026cf256b3299150351ba5b2[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 22:28:58 2019 +0800
+
+    搜索 -> 收缩 #628
+
+[33mcommit 10021db2d332e87fdd88f8547691e691611a49a9[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sat Apr 13 19:38:39 2019 +0800
+
+    函数 -> 参数
+    
+    此处应为“参数”
+
+[33mcommit d540ea8ad171268b232ed54f8c765c9759529ab4[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 22:27:45 2019 +0800
+
+    函数 -> 参数 #629
+
+[33mcommit bcc4cb3dc560984255a7e2f7dd2805d789c8a1bc[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 22:26:59 2019 +0800
+
+    +“是” #626
+
+[33mcommit d3ddc88a7c228aaa04dd520a776cd3b1b79292af[m
+Author: dov <richardchen0954@gmail.com>
+Date:   Sat Apr 13 18:02:46 2019 +0800
+
+    +“是”
+
+[33mcommit 36313301ca37ca2f0446fff3687ddbc8743d3c89[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 17:47:58 2019 +0800
+
+    Part.3.C.的2个小点 #625
+
+[33mcommit 54ed37f3344eefd976ac13ba473b55d83f42534c[m
+Author: dov <richardchen0954@gmail.com>
+Date:   Sat Apr 13 16:19:50 2019 +0800
+
+    Part.3.C.的2个小点
+
+[33mcommit 99afee3b4b6494f467cfc017d80a31e6a2cf6240[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 14:26:16 2019 +0800
+
+    update css
+
+[33mcommit 5cbf2b4bc4d23563b0b6c8bdfbaeefaee69e359a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 14:14:53 2019 +0800
+
+    replace latex to html.
+    
+    <sup>2</sup>&radic;<span style="text-decoration: overline">2</span>
+
+[33mcommit 67664b884ba077865a16d9f88fa1c2c761f49ffa[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 12:23:34 2019 +0800
+
+    remove ?raw=true from *.ipynb, and fix "From wpeiran #623"
+
+[33mcommit cd5a0c37fce6b59f1cdd7a2ffd0401d4f9509596[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 12:13:17 2019 +0800
+
+    remove latex, use html entities, such as &frac14;
+
+[33mcommit 9505d65d86c01426f0287b50c909afc0ef815185[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 12:01:14 2019 +0800
+
+    add info for gif explanation.
+
+[33mcommit b5d9e04ba1ce761ff1b19e064b37eda40c767b71[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 11:59:11 2019 +0800
+
+    add ?raw=true to all image refs.
+
+[33mcommit 14dae41d21f0b278e47f7cedf0efd91937970ce1[m
+Merge: 79223c7 3003938
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Sat Apr 13 11:35:18 2019 +0800
+
+    Merge pull request #2 from selfteaching/master
+    
+    updata repo
+
+[33mcommit 300393882ed09f1000d00c1dcd8fcbf8183f51a3[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 11:10:16 2019 +0800
+
+    fix emphasize _
+
+[33mcommit 07c6ab395eab8ab0eeccc256a71b27f14037a536[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 13 11:08:21 2019 +0800
+
+    fix emphasize _
+
+[33mcommit 75b8f258628ed8abda2e21f1bc72f851c17f5255[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 12 19:08:00 2019 +0800
+
+    fix image
+
+[33mcommit 27813b18b54ff81a2cde5a8c5b82b4761290580b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 12 18:54:32 2019 +0800
+
+    complete #614, png fixed, markdown added.
+
+[33mcommit 02f73b5f51afccce1862b7a28350159cb55bc4c0[m
+Author: neo00007 <mr.yliu@gmail.com>
+Date:   Thu Apr 11 12:44:10 2019 +0800
+
+    add supplements in Part.3.B.2.classes-2.ipynb
+
+[33mcommit d601f38112504cf92c16cbe6f1bf48e3e60385ba[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 12 18:30:14 2019 +0800
+
+    spelling mistake #617
+
+[33mcommit fcada57316c5277ac578aac6f69604737a4d3a28[m
+Author: losted-star <39818372+losted-star@users.noreply.github.com>
+Date:   Fri Apr 12 12:47:11 2019 +0800
+
+    spelling mistake
+    
+    Golam ----→ Golem
+
+[33mcommit 8cb484315a0e371645c8247948aa8e865a80b190[m
+Author: sxuya <yesxuya@gmail.com>
+Date:   Thu Apr 11 18:40:01 2019 +0800
+
+    add if 语句的缩进说明
+    
+    增加 if 语句的缩进说明。
+    注意第 1 行末尾的冒号：
+    ==>
+    注意第 1 行末尾的冒号 `:` 和第 2 行的缩进
+
+[33mcommit 79223c72ae1366f40e5c4b5e87c82a906847973c[m
+Merge: 9e4b4b4 ca8228f
+Author: wpeiran <45680845+wpeiran@users.noreply.github.com>
+Date:   Wed Apr 10 08:42:44 2019 +0800
+
+    Merge pull request #1 from selfteaching/master
+    
+    updata repo
+
+[33mcommit ca8228fad22d0c60363e04075d11646b22772fd6[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 9 16:22:46 2019 +0800
+
+    早些年我，…… -> 早些年，我…… #603
+
+[33mcommit ee784fd72ccf5aa5b3648de8b5e990b2be3a21a9[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 9 15:33:04 2019 +0800
+
+    早些年我，……  -> 早些年，我……
+    
+    如题
+
+[33mcommit fb17860ef343b753cd45180692878a527d9d26be[m
+Author: Yuns Xie <yuns.xie@qq.com>
+Date:   Tue Apr 9 08:15:55 2019 +0800
+
+    Update Part.3.B.4.regex.ipynb
+
+[33mcommit ff39dd74d704d3e6d61b875352ec2878dbb2a331[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 9 00:58:05 2019 +0800
+
+    linted. code in .ipynb files re-run.
+
+[33mcommit b2a720352e81deb2d8b0e28e30a25fa8225c566b[m
+Author: dov <richardchen0954@gmail.com>
+Date:   Mon Apr 8 16:52:55 2019 +0800
+
+    3空格缩进 → 4空格缩进
+
+[33mcommit bcbbddc4b497924850e662a2c0d62e8195867bed[m
+Author: elvyn <22519307+elvynlee@users.noreply.github.com>
+Date:   Mon Apr 8 15:45:52 2019 +0800
+
+    3 "sep=" to "end="
+    
+    修改3处 "sep="为 "end="： "sep="在此3处对输出无影响。
+
+[33mcommit 648c738a8c711874ab0560cb57113fb98f59c521[m
+Author: elvyn <22519307+elvynlee@users.noreply.github.com>
+Date:   Mon Apr 8 15:11:41 2019 +0800
+
+    Update Part.3.B.4.regex.ipynb
+    
+    ”的“字重复
+
+[33mcommit b29cad042712b4d51efd85e04a93f8bfcee1f13e[m
+Author: neo00007 <mr.yliu@gmail.com>
+Date:   Mon Apr 8 12:18:20 2019 +0800
+
+    remove redundant parentheses
+
+[33mcommit 183e8e7a0fee72ce33561df2c459c195d9a0b86d[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Mon Apr 8 09:54:02 2019 +0800
+
+    其后 -> 其实
+    
+    按表达意思揣度
+
+[33mcommit 2e404920d3625e8ffe4afba94f1675179dfd775a[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 7 20:06:09 2019 +0800
+
+    单引号 -> 引号
+    
+    如题
+
+[33mcommit 5c6f6e788eac1bf60c93b8fddd753611e5b9a76b[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 7 12:26:30 2019 +0800
+
+    双 -> 单
+    
+    ' ' 单引号
+
+[33mcommit bb93f7b841361979289d420b3a0f70cea320fd01[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 7 20:31:12 2019 +0800
+
+    “从写函数”  -> 从 “写函数”
+    
+    我们的做法也是从 “写函数” 开始……因为从 “小而完整” 的东西开始做（任何事）非常重要。
+
+[33mcommit a432b0edd70d26fc18bd1f3411eb2877273981e4[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 18:42:10 2019 +0800
+
+    update markdown emphasis mark from _xxx_ to *xxx*
+
+[33mcommit 105eda3039f9d928cacf119f0faf59a1f136f12b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 18:30:31 2019 +0800
+
+    update Part.1.E.3.controlflow.ipynb #587
+
+[33mcommit 98a2c29cc47689fe41fe3f0d69a0f9e6924022f9[m
+Author: guanhuazhan <1577016476@qq.com>
+Date:   Sun Apr 7 18:02:59 2019 +0800
+
+    Communications of the ACM->Flow diagrams, turing machines and languages with only two formation rules. //Communications of the ACM is the name of the journal
+
+[33mcommit 6ac35105ac02e025a8cec05434445e3417da4399[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 17:06:10 2019 +0800
+
+    Part.1.E.1.entrance.ipynb #586 fixed.
+
+[33mcommit 9af5b355414df30126ea214168ea189f15352387[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 16:53:00 2019 +0800
+
+    linted
+
+[33mcommit ca2f614b9bf19e4d082d5ef5ef94cecf0bdd93a9[m
+Author: dov <richardchen0954@gmail.com>
+Date:   Sun Apr 7 10:21:36 2019 +0800
+
+     'Jack' → name = 'Jack'
+
+[33mcommit ab014baef2da7575149b2759b0ce38a3abb5a007[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 11:24:31 2019 +0800
+
+    linted
+
+[33mcommit bc481216cdb03b0fa3dfe72c23c80437e6c86ac5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 11:23:46 2019 +0800
+
+    add a link
+
+[33mcommit 2d7ea4c198e5b16d6dfa230bf2e37964aedacdbd[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 11:22:33 2019 +0800
+
+    linted
+
+[33mcommit 99bdc468dd3d31e836e9abf173969373cd15cc8f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 11:02:19 2019 +0800
+
+    linted
+
+[33mcommit 87ecf70b429f9992aedf9d266d79607d898189ee[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 10:01:02 2019 +0800
+
+    补充 next() 说明文字 #580
+
+[33mcommit 246d2719a1e09975b40e8ffe0983ff343e50877b[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 7 08:30:16 2019 +0800
+
+    补充 next() 说明文字
+    
+    消除歧义
+
+[33mcommit ee7a3aeebb8ca4219fa49bae61dc914277d63868[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Apr 7 08:46:42 2019 +0800
+
+    添加 "import re"
+    
+    否则运行报错
+
+[33mcommit d6ea9dda83a206277b5f48280a229b9ba36f9e76[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 02:17:47 2019 +0800
+
+    linted
+
+[33mcommit ba8c2714b697206a6f37e3cfa26c120c821f37b8[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 02:03:31 2019 +0800
+
+    lint from-users
+
+[33mcommit 928272b802835229e2b9711cb7127652ea543150[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Apr 7 01:36:52 2019 +0800
+
+    linted
+
+[33mcommit d3dac29b27fde396efd6e28c4e29593bbe9cf235[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 23:58:37 2019 +0800
+
+    lint article from a reader.
+
+[33mcommit 8c44bb902dcd425a2b8e49c37724736194e2d69c[m
+Author: catynchyna <catynchyna@gmail.com>
+Date:   Sat Apr 6 22:47:17 2019 +0800
+
+    Create Cat-self-teaching-stories-1
+    
+    Dear Joe sensei@xiaolai
+    :P this is my little thoughts.
+    appreciated for your supports all the way...
+    Kind regards,
+    Cat
+
+[33mcommit 97e535440bb6ef626643dd4e84c5214391245c07[m
+Author: Champion Bai <48580753+baichampion@users.noreply.github.com>
+Date:   Sat Apr 6 20:45:14 2019 +0800
+
+    自学经历
+    
+    您好，笑来老师，我叫白长平，是自学python训练营3期4班学员。这是我的学习经历。
+
+[33mcommit 114474507085b446fca73561ec5733c694e1da7d[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sat Apr 6 16:28:09 2019 +0800
+
+    修正表格中缺失的括号
+    
+    2个
+
+[33mcommit 3c837baeeae3f317438752d576a73658c5de77ad[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 23:43:58 2019 +0800
+
+    linted.
+
+[33mcommit a6c2c1948ec7b34fd450394dc584c69740a656b7[m
+Author: elvyn <22519307+elvynlee@users.noreply.github.com>
+Date:   Sat Apr 6 03:35:51 2019 +0800
+
+    Update S.whats-next
+    
+    “只做” 改为 “制作”
+
+[33mcommit 677e2b121b6b77a313c76de3b2fccb622e8ccdb3[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 10:20:23 2019 +0800
+
+    update image links to absolute ones.
+
+[33mcommit 7612f95d19d8ee7ca02bdb46bbc96b3df43bdcf2[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 10:17:03 2019 +0800
+
+    Update S.whats-next #572
+
+[33mcommit d8c5494e1f8dc690ba6b5474165af9b51de70fa1[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 10:15:42 2019 +0800
+
+    添加“是” #573
+
+[33mcommit a5aa66ec5d02a73dc6c31b3294f0a2d2c807f25d[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 21:54:30 2019 +0800
+
+    Revert "Revert "调整注释的位置""
+    
+    This reverts commit 37e2bd155072a0bf2fb444199698b65ee6afce55.
+
+[33mcommit be64b653f02ab1f28f589d47eecc3debcdd7a6fd[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Apr 6 01:39:48 2019 +0800
+
+    可迭代对象 -> 迭代器 #570
+
+[33mcommit 0a1815646eedd9b9870fbc4ae8e028925a0b71df[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 22:24:29 2019 +0800
+
+    还有一个迭代器替换……
+    
+    迭代器才能用 next()
+
+[33mcommit d825b881e5c1a1f0cfccb48e0ac95f799ddc53e2[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 22:17:47 2019 +0800
+
+    可迭代对象 -> 迭代器
+    
+    原文存在概念错误。
+    可迭代对象是 Iterable ，可以直接作用于 for 循环的对象；
+    迭代器是 Iterator ，可以被 next() 函数调用并不断返回下一个值的对象；
+    iter() 是把 str、list、dict 等 Iterable 变成 Iterator。
+
+[33mcommit 184e1d4d565a2229eb0e7c1ec304200e413567ec[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 20:47:54 2019 +0800
+
+    删除“很”
+    
+    多余
+
+[33mcommit b2f07cbbd26053fae1b3cd187e812aa8ef370438[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 21:22:05 2019 +0800
+
+    调整注释的位置 #566 Revert "调整注释的位置" #568
+
+[33mcommit a5863333c371db04fe559ee002c170d9dbf57807[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 20:58:03 2019 +0800
+
+    修正缩进
+    
+    缩进4位
+
+[33mcommit 37e2bd155072a0bf2fb444199698b65ee6afce55[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 21:16:39 2019 +0800
+
+    Revert "调整注释的位置"
+    
+    This reverts commit ffc23d4a2935df70e3bf2878b4eeeb6991c53f62.
+
+[33mcommit e9e276a769e9a799a4e1357c3bfde0614a773b05[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 21:16:39 2019 +0800
+
+    Revert "删除“很”"
+    
+    This reverts commit 864407054b897a9501ed14fac069a4e117fbf24c.
+
+[33mcommit 864407054b897a9501ed14fac069a4e117fbf24c[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 20:47:54 2019 +0800
+
+    删除“很”
+    
+    多余
+
+[33mcommit ffc23d4a2935df70e3bf2878b4eeeb6991c53f62[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 20:43:11 2019 +0800
+
+    调整注释的位置
+    
+    被放错行了……
+
+[33mcommit 9aea5fe2928be823dfecb5b2cddf243145920f3f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 19:18:23 2019 +0800
+
+    Part.1.E.6.containers #481 issue
+
+[33mcommit 82e019548260a52bbd850da2cc183520e6d3e9b5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:20:24 2019 +0800
+
+    Update 02.proof-of-work.md #546
+    
+    fix https://github.com/xiaolai/the-craft-of-selfteaching > https://github.com/selfteaching/the-craft-of-selfteaching
+
+[33mcommit 820ca47326147ad0dac02e7f45f3db9009e209fa[m
+Author: 好想告诉你 <121431418@qq.com>
+Date:   Thu Apr 4 12:30:35 2019 +0800
+
+    Update 02.proof-of-work.md
+    
+    fix https://github.com/xiaolai/the-craft-of-selfteaching > https://github.com/selfteaching/the-craft-of-selfteaching
+
+[33mcommit 0377d0c54aac30970992bb34c29cb63a19e15906[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:19:09 2019 +0800
+
+    ，-> 、 #547
+
+[33mcommit 7b956b93f35e2481179b5ee63999431bbc547aec[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 12:42:46 2019 +0800
+
+    ，-> 、
+    
+    连贯并列
+
+[33mcommit e3335fc42bcc3d076e1183a90e116fc968c33386[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:17:52 2019 +0800
+
+    突出 -> 突触 #548
+
+[33mcommit e3f07924d5c7269fe2345176f0945428536b2921[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 12:51:32 2019 +0800
+
+    突出 -> 突触
+    
+    脑神经突触，术语
+
+[33mcommit 689db3b05323712976d6cad89b0c80ea1b99abf5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:16:57 2019 +0800
+
+    By pan pan2 #549
+
+[33mcommit 2a210c13c95ae6b6fe225930a82d340c973a8eb6[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 13:31:33 2019 +0800
+
+    删除两个 “)”
+    
+    链接括号问题，不能正常显示
+
+[33mcommit 0755ad403a0cc2ba6915a567c1a5cf4a50604893[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 13:27:22 2019 +0800
+
+    Update Part.3.B.1.classes-1.ipynb
+
+[33mcommit fd18e947d8e97b1884da03edb02fa6913e7c965f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:14:58 2019 +0800
+
+    By yaoyouzhong #551
+
+[33mcommit 9af6645c72707a51c56a0bf7ced5a39fd40faaa4[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:13:56 2019 +0800
+
+    By yaoyouzhong #551
+
+[33mcommit 8c5cd309e1082b130e1c7f4bc080a3a031279ed6[m
+Author: yaoyouzhong <yaoyouzhong@gmail.com>
+Date:   Thu Apr 4 17:10:29 2019 +0800
+
+    Update Part.2.D.4-recursion.ipynb
+
+[33mcommit 89e018bcb4d48c7be2040d21420fd67587ab7b37[m
+Author: yaoyouzhong <yaoyouzhong@gmail.com>
+Date:   Thu Apr 4 15:09:59 2019 +0800
+
+    Update Part.2.D.6-modules.ipynb
+    
+    add "import sys" at line 260
+
+[33mcommit feeed7f29a4a0668bd31f828cbb9a6936420f6ed[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:11:56 2019 +0800
+
+    能应该 -> 应该能 #552
+
+[33mcommit c063735fe1f7a37c86bc1f1e276a4676470ed9bb[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 15:56:07 2019 +0800
+
+    能应该 -> 应该能
+    
+    语序问题
+
+[33mcommit 28ea9cc17554303886d0cc24abf04b686ff63765[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:11:08 2019 +0800
+
+    modify karg to kwarg #553
+
+[33mcommit d8b778226fa419389743efd18fd8b37c67a42f26[m
+Author: zhangwei <zhangwei19890518@gmail.com>
+Date:   Thu Apr 4 16:59:24 2019 +0800
+
+    modify karg to kwarg
+
+[33mcommit 8ce0fa81d665bd24d3a0976d31f880e28d53fdcb[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Apr 4 20:43:39 2019 +0800
+
+    补齐程序运行结果
+    
+    添加3行
+
+[33mcommit dac880059b9f399ff3372d02c5e951dc07877a01[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Apr 5 12:07:38 2019 +0800
+
+    字母改为字符 #559
+
+[33mcommit 9f28239a8409c697c658a580118cf25b1b4578e9[m
+Author: billwuhao <billwuhao.2018@gmail.com>
+Date:   Thu Apr 4 23:43:56 2019 +0800
+
+    字母改为字符
+
+[33mcommit a919b7400e0fdecaf2a886b7ad97643a0e4e42cd[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Fri Apr 5 08:03:37 2019 +0800
+
+    删除空的程序cell
+    
+    多余
+
+[33mcommit 25bafa578013980e55b85211733cb80e51b3173f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 4 06:41:38 2019 +0800
+
+    搜索 -> 收缩 #544
+
+[33mcommit 44db1dfe6e72b441e850561bc1cda2fe903a09e9[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Wed Apr 3 22:28:58 2019 +0800
+
+    搜索 -> 收缩
+    
+    近音错词
+
+[33mcommit 74345c5816106ad33730a9bc315f198d3ce75995[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Apr 4 06:40:28 2019 +0800
+
+    ，-> ； #543
+
+[33mcommit 68f87e0e154a1fb4f44f33d9f49a110f6fe6a6c8[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Wed Apr 3 22:18:31 2019 +0800
+
+    ，-> ；
+    
+    并列关系
+
+[33mcommit 0fcbe0b682e304ed0dfa13a4fa2f15763a2a8ebe[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Apr 3 15:56:28 2019 +0800
+
+    ，-> ： #539
+
+[33mcommit 539d5fc93fff56789a3a84433a5ea49f4636d098[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Wed Apr 3 13:58:18 2019 +0800
+
+    ，-> ：
+    
+    风格统一
+
+[33mcommit 0507c33a857d22d022cd38b75dc04cf45732fc58[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Wed Apr 3 13:11:13 2019 +0800
+
+    添加“：”
+    
+    保持前后风格统一
+
+[33mcommit bb93a060e1d1f73a773b933a84c8c85f6dbe869a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Apr 3 13:42:37 2019 +0800
+
+    添加“：” #538
+
+[33mcommit 1dd2b935e4efa723cad63bbf4a69039131b9a68d[m
+Author: gd139 <gd139@139.com>
+Date:   Wed Apr 3 10:48:41 2019 +0800
+
+    修改
+    
+    既然》已然
+
+[33mcommit 1de0cb1041e0a5528f0e53343079684908e5df16[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 21:50:34 2019 +0800
+
+    删除"，"
+    
+    多余的标点
+
+[33mcommit e93a984bc224a9ea9a2a75a0339f6cd4e4ea950f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Apr 3 10:32:25 2019 +0800
+
+    删除"，" #534
+
+[33mcommit abb69063df364739205f32080c191912ce9ac742[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Apr 3 10:31:39 2019 +0800
+
+    重新解释 __name__ 和 main() #533
+
+[33mcommit fc8e5e24e0d96f19c5368e1effe342709de7803c[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 21:34:26 2019 +0800
+
+    重新解释 __name__ 和 main()
+    
+    原文让我迷惑了好久……
+
+[33mcommit bdcd854b9e8f6d8b959e203e7b8e7ac9831eb039[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 20:09:50 2019 +0800
+
+    增加代码运行结果
+    
+    添补部分缺失
+
+[33mcommit 839c1592d56db0a38415191e1d1fbea143e7236d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 14:29:36 2019 +0800
+
+    指定引入 -> 引入指定 #527
+
+[33mcommit 3054e159400991de568eba54ba1adc402ac9a877[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 13:40:21 2019 +0800
+
+    指定引入 -> 引入指定
+    
+    语序有误
+
+[33mcommit 63718b495156394edadfee3d10c48cb9594effe8[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 13:23:29 2019 +0800
+
+    capitalzed -> capitalized #522
+
+[33mcommit 44a2bca034d58c6031a2e71ec9d4b6e147fb043f[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 10:18:00 2019 +0800
+
+    capitalzed -> capitalized
+    
+    漏了个 i
+
+[33mcommit 3e212dcc56da664fd87918bf8e58fb5760ad2d34[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 13:22:20 2019 +0800
+
+    Fix C syntax #523
+
+[33mcommit 91e8f7bd49136deb63f657d94eccc38968727b56[m
+Author: tys1998 <tanyongshan1998@outlook.com>
+Date:   Tue Apr 2 10:49:59 2019 +0800
+
+    Fix C syntax
+
+[33mcommit 9d9cc772dedd0d01222dda7e35f788ded3d62e31[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 13:20:40 2019 +0800
+
+    Fix spelling #526
+
+[33mcommit f24435bed538a10de733bb74df30886434786038[m
+Author: tys1998 <tanyongshan1998@outlook.com>
+Date:   Tue Apr 2 13:15:34 2019 +0800
+
+    Fix spelling
+
+[33mcommit d3dfa3b61588eb11bf83832fcc23f8e7fb55fdde[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Tue Apr 2 11:00:30 2019 +0800
+
+    True -> False
+    
+    注释错误
+
+[33mcommit d0e2c57f5661e27855b14a60fc2b5469107e164e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 13:17:46 2019 +0800
+
+    True -> False #524
+
+[33mcommit fbc72ab36206d4efce0ed82e1a16a2ed1be68d40[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Apr 2 13:16:06 2019 +0800
+
+    Fix full-width symbol #525
+
+[33mcommit c82502cf4b66e8ca8190ebd185e8521971b2ad5b[m
+Author: tys1998 <tanyongshan1998@outlook.com>
+Date:   Tue Apr 2 12:38:27 2019 +0800
+
+    Fix full-width symbol
+
+[33mcommit b13aad3e28a3b005c6274a4fe815685a59b857eb[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 22:08:45 2019 +0800
+
+    删除“并” #517
+
+[33mcommit 36a546edffd6a18d4aa689f860bf912a96902d28[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Mon Apr 1 19:28:08 2019 +0800
+
+    删除“并”
+    
+    “肯定并不是”读起来别扭
+
+[33mcommit cc453898ca5bea99c4081f306f053947c3ad6df3[m
+Author: luxingyu-git <lu.xingyu@hotmail.com>
+Date:   Mon Apr 1 19:34:15 2019 +0800
+
+    Revert "Update Part.1.E.1.entrance.ipynb"
+    
+    This reverts commit 1020a0ee6cf4fef0de5254ab5476d5b3e1946d5a.
+
+[33mcommit fd1e5b1d2fccd57b9f5370479af4feef326097b6[m
+Author: luxingyu-git <lu.xingyu@hotmail.com>
+Date:   Mon Apr 1 19:22:37 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb
+
+[33mcommit 284878c5be93a093bbccc3246becf2642f86e9f5[m
+Author: luxingyu-git <48622363+luxingyu-git@users.noreply.github.com>
+Date:   Mon Apr 1 19:21:19 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb
+
+[33mcommit 40f6995a6bffb68be8c413add987f7498c28cfc1[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 22:07:11 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb #516
+
+[33mcommit a232e6d879edb94fb3bea426c9f1109b0a985b4c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 22:01:47 2019 +0800
+
+    修正不正确的斜体 #515
+
+[33mcommit ba7281911678a8d48a28f0cf4ba1180dafc7ef98[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Mon Apr 1 19:18:19 2019 +0800
+
+    修正不正确的斜体
+    
+    函数名中的 “_” 引起的错误
+    添加了   `   `
+
+[33mcommit 5e05a98d42dec52263628497cea393be9341099e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 19:02:28 2019 +0800
+
+    fix json
+
+[33mcommit c96679c87caebbc1003fa7e3671cc34d4d5ab897[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 18:25:18 2019 +0800
+
+    fix by textlint-rule-prh
+
+[33mcommit f67c43b7d03117a78ef3825a5836f463a55b35f8[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 18:14:18 2019 +0800
+
+    修正 recursive-function-call.png #512
+
+[33mcommit 3fddb0c3cdecc47eee963142be71c8f25a0d8b34[m
+Author: neo00007 <mr.yliu@gmail.com>
+Date:   Mon Apr 1 14:10:47 2019 +0800
+
+    improve example for 'raw' and 'presentation', added '\' to show difference between 'raw' and 'presentation'
+
+[33mcommit d5dd17f5b2e5f5e5e5d79773c543037dd9bedda7[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 18:05:23 2019 +0800
+
+    improve example for 'raw' and 'presentation' #513
+
+[33mcommit d32368f1e6a2f78e71eb817fc960a14272274d14[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 13:52:24 2019 +0800
+
+    accept #510
+
+[33mcommit 2527bbf830fc85e65dc83d14e567137a2dd84d0f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 13:44:27 2019 +0800
+
+    re-fix venn2 image
+
+[33mcommit a10c1ec5df16152f892d2aa8b81f27b1604f9a8b[m
+Author: jiaowagn <wangjiaohere@gmail.com>
+Date:   Sun Mar 31 13:47:39 2019 +0800
+
+    Part.1.E.6 set: admins - moderators >> medorators - admin
+
+[33mcommit f43efc2aa6f82720dead4b3beb4e5f28eda30c41[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 13:32:46 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb #508
+
+[33mcommit a2a49be18146b238da10022454c7b209278df05b[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Mon Apr 1 03:51:05 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    line：2249，“迭代各种容器中元素”改为“迭代各种容器中的元素”
+
+[33mcommit b6907ccd33d163b10c455f686ff7945c4a8788ca[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 13:29:12 2019 +0800
+
+    删除“个” #511
+
+[33mcommit f0d55c1943330bb10b81a1ce8c5ef67b91d44c43[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Mon Apr 1 12:51:33 2019 +0800
+
+    删除“个”
+    
+    多余的“个”字
+
+[33mcommit e467b684aa402a988029e546b263c05ea92d2f37[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Apr 1 01:48:03 2019 +0800
+
+    fixed by textlint-rule-prh
+
+[33mcommit ecd765ff169ca70133a20ac9699ce3fa23474a56[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 21:59:37 2019 +0800
+
+    修正 Keyword List 表格 #505
+
+[33mcommit 192e2856d4226d2da1188abba1a68373e2285347[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Mar 31 21:28:18 2019 +0800
+
+    修正并排版 Keyword List 表格
+    
+    原表格真是惨不忍睹……
+    这么多天来居然没人发现有错吗？
+    难道只有我一个人在只字不差地阅读？
+    Unbelievable……
+
+[33mcommit 8cdd7b8d843d42630b0a09f533bffaf8990df001[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 21:31:22 2019 +0800
+
+    Fix word spell error #502
+
+[33mcommit fb597ee12fb637963d20cf2b72e27d703ae12cc8[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 31 20:09:58 2019 +0800
+
+    Fix word spell error
+    
+    于->与
+
+[33mcommit da9cfdfe5e012ae8b8bc79b307382124f468523c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 20:01:18 2019 +0800
+
+    Fix words spell error #500
+
+[33mcommit 709152de86969729b149eefe6101906dcbdaee9b[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 31 18:41:33 2019 +0800
+
+    Fix words spell error
+    
+    扩起来->括起来
+
+[33mcommit 1743e36582da5005d99ba65f9a5e242249e66496[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 20:00:11 2019 +0800
+
+    起始 -> 其实 #501
+
+[33mcommit af72966af2d5c672623a5f309046688c5e6b3e07[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Mar 31 19:38:07 2019 +0800
+
+    起始 -> 其实
+    
+    拼音输入法惹的祸吧：）
+
+[33mcommit cbf3bf8a912d149d6e615d217e9733b460762e42[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 18:36:37 2019 +0800
+
+    接近370,101 -> 370,099 #498
+
+[33mcommit 3054f4080373943216d9e37facb8c795497b1537[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Mar 31 17:52:13 2019 +0800
+
+    接近370,101 -> 370,099
+    
+    数字很精确，没必要用“接近”
+    “可以”多余，且不通顺
+
+[33mcommit 0b31b2d66d76a05cf72f9e6882e95a1c0721ccdb[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 18:23:41 2019 +0800
+
+    &sdot; -> &#12539; Katakana Middle Dot
+
+[33mcommit c1157f3d8d1774aafaf85dfac3e919014afb9a0b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 17:53:39 2019 +0800
+
+    Fix words spell error #497
+
+[33mcommit fb3c5bd5007d82889fa34978623bd179585ba098[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 31 17:26:52 2019 +0800
+
+    Fix words spell error
+    
+    Flow Control -> Control Flow;其他地方的流程控制英文使用的是Control Flow，google也是Control Flow，遂修改。
+
+[33mcommit e106b569d9b08bab1984f7eb5802975ce39c9f8b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 17:12:56 2019 +0800
+
+    input里的字符串用全部引用，程序才会正常运行
+
+[33mcommit 34545d0568eaac7ccd23b5c7fbfe347824c559ea[m
+Merge: 8b6b2ed 79ee45c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 17:09:36 2019 +0800
+
+    conflict fixed
+
+[33mcommit 8b6b2ed1090063e1a920c617b53f36bf98d5b832[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 17:06:20 2019 +0800
+
+    results -> result #490
+
+[33mcommit 79ee45c9b5000daea0e592e4eac7e1a012f6c7cd[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 15:28:36 2019 +0800
+
+    del 'ggit'
+
+[33mcommit 4e57dcb9a8e5d555d6ca9853c3f060868df54c51[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 15:26:37 2019 +0800
+
+    增加了两个句点 #488
+
+[33mcommit 7c6f873113c0dd3f66f40ebf18616ffba9fe1486[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Mar 31 08:32:05 2019 +0800
+
+    增加了两个句点
+    
+    完整的句子怎么能少了句点呢：）
+
+[33mcommit 7b19dede518088c6791237f5fc51447f801a8cf8[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sun Mar 31 08:06:50 2019 +0800
+
+    增加一个句点
+    
+    一个完整的句子怎么能少了句点呢：）
+
+[33mcommit d8f3719e17c95624492db496c1b114130c894fdc[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 31 15:25:33 2019 +0800
+
+    结果计算错误 #493
+
+[33mcommit 023220f6a04fe5fc6043ea0c1fecefcc9ae31712[m
+Author: losted-star <39818372+losted-star@users.noreply.github.com>
+Date:   Sun Mar 31 11:19:13 2019 +0800
+
+    结果计算错误
+    
+    这 12 行的代码，在几秒钟内从接近 370,101 个英文单词中找到 3,770 个如此计算等于 100 的词汇
+
+[33mcommit 8428f5f0e6f0acd625e13cbde9d7453df06918c5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 30 23:08:04 2019 +0800
+
+    所有人都是 -> 有些人是 #485
+
+[33mcommit 1fb6b29bd2d95232c8c852105ffedd7e237ae94c[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sat Mar 30 20:39:27 2019 +0800
+
+    所有人都是 -> 有些人是
+    
+    联系下文，此处有误
+
+[33mcommit 1685a352e0d8eae2a978013f82c6e1a1999b7b72[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 30 19:40:40 2019 +0800
+
+    ； -> ） #484
+
+[33mcommit db9ec1a49de88bedf62d3156f7ba68308eae9b75[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Sat Mar 30 17:32:44 2019 +0800
+
+    ；-> ）
+    
+    标点符号错误
+
+[33mcommit 14b6b5674d86e45562a7fd986d0b735a2e7a3f6c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 30 19:36:50 2019 +0800
+
+    fix sentence.
+
+[33mcommit f23da4094dd2df7eab806f145e8f0e0cb0531943[m
+Author: rico <30857671+lilasxie@users.noreply.github.com>
+Date:   Fri Mar 29 15:59:49 2019 +0800
+
+    add parentheses to pop in line 755
+
+[33mcommit b2eb73abd0bfc79b278aba4ab7bd700512ac58a8[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 29 17:29:36 2019 +0800
+
+    From rico #2 #472
+
+[33mcommit ca983d6d21f1c2d69d451379359f4de6f87b131c[m
+Author: wuyaofang <wuyaofang@noahgroup.com>
+Date:   Fri Mar 29 15:10:24 2019 +0800
+
+    修正
+
+[33mcommit d5148e356d6b946e970f35f9f9c4b9a0b546769f[m
+Author: wuyaofang <wuyaofang@noahgroup.com>
+Date:   Fri Mar 29 15:04:09 2019 +0800
+
+    的改成是
+
+[33mcommit e7e1745ec4edc0deeeb80420ced2a261a9d3a712[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 29 11:20:42 2019 +0800
+
+    add `[]` for list.
+
+[33mcommit 84944e5f5f0761042171ea5f7dd4b1156fa4ec69[m
+Author: rico <30857671+lilasxie@users.noreply.github.com>
+Date:   Fri Mar 29 10:47:24 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    add  square brackets in line 176
+
+[33mcommit feee802dc6f611a13711a3b63a67764b59312266[m
+Author: hotchner <1178956984@qq.com>
+Date:   Fri Mar 29 02:06:35 2019 +0800
+
+    修正快捷键说明
+
+[33mcommit 9fbffbe5762f898380d7d031767743b73b621796[m
+Author: hotchner <1178956984@qq.com>
+Date:   Fri Mar 29 02:04:51 2019 +0800
+
+    修正快捷键说明
+
+[33mcommit 3a1bbc8e51c0fbe67e5bf1b8de4814ef54c5b73b[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Mar 28 23:15:14 2019 +0800
+
+    end -> end - 1 , 及补充表达
+    
+    严谨表达，消除歧义，并再次提醒读者注意易错处。
+
+[33mcommit e461d8c8103a8c6556c5886dffb14a1feb6f7870[m
+Author: feng <chyoufeng@gamil.com>
+Date:   Thu Mar 28 18:58:43 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    end的默认值应该是len(str)，如果是len(str)-1，会漏掉最后一个字符。
+    测试代码：
+    s = 'aba'
+    s.count('a',0,3)#结果为2
+    s.count('a',0,len(s)-1)#结果为1
+
+[33mcommit 1b83923b0f2a60254df933aac56f55b46873ae6c[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Thu Mar 28 21:13:53 2019 +0800
+
+    add f.close() ，否则无法删除文件
+
+[33mcommit bd5e3cf884a50919ab26ef8b131b0b0e958be1e0[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Thu Mar 28 12:22:05 2019 +0800
+
+    删除文件时，需要先关闭文件流
+
+[33mcommit 169fdf8fc300c1ce7eb0417dc1dbe0e6465391eb[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Thu Mar 28 12:19:57 2019 +0800
+
+    file
+
+[33mcommit 441ade71b4d1d50164edea40852e53e3b380aa4b[m
+Author: zhangyingping <44121342+yingpingzhang@users.noreply.github.com>
+Date:   Thu Mar 28 12:17:25 2019 +0800
+
+    Delete my-notes.md
+
+[33mcommit db0c607ececdf590ae1226d780de6937de14b95c[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Thu Mar 28 12:09:27 2019 +0800
+
+    在删除文件代码中，需要添加f.close关闭文件，否则无法删除文件
+
+[33mcommit e0491e9f597228324faccbf1e6e174a95714a892[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 17:04:40 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+
+[33mcommit 0d6b1b4e44fe7b67166670a0832cbb7321a35bab[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Tue Mar 26 16:39:41 2019 +0800
+
+    将返回值为在字符串中 sub 出现的次数 修改为 返回值为字符串中 sub 出现的次数
+
+[33mcommit bb087d9671f4473dc9bd0ed012929eec7f915a71[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Tue Mar 26 16:20:24 2019 +0800
+
+    将它官方文档是这么写的 修改为官方文档是这么写的
+
+[33mcommit 3c23f8b35628f10b1a4a4703747d52988becb3db[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Tue Mar 26 15:51:20 2019 +0800
+
+    字符串有很多可以调用Methods改为字符串有很多可以调用的Methods
+
+[33mcommit e5800a73ca76029e1c633cea212d039ec9fa11ab[m
+Author: yingpingzhang <zhangyingping@gmail.com>
+Date:   Tue Mar 26 09:24:56 2019 +0800
+
+    add mynote.md
+
+[33mcommit f9e1ba9baf3a9e819fc85bbe2280777d7d8b2929[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 17:54:00 2019 +0800
+
+    fix output
+
+[33mcommit 643bd20145775cbb7f584c66b040f6adf59c7829[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 17:38:44 2019 +0800
+
+    fix link
+
+[33mcommit 3a7d14b5e1f6ced8752533f43b5b45e3d0af3fef[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 17:35:51 2019 +0800
+
+    change some "方法" into "Method/s", to remove confusions
+
+[33mcommit d1971305a981580e24a8d31a949613e8e6e093b5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 15:17:39 2019 +0800
+
+    He said, it's file -> fine.
+
+[33mcommit 09e46d23fec3fc17a7770f38162546045ac6cd7e[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Thu Mar 28 14:11:29 2019 +0800
+
+    file -> fine
+    
+    联系上文，这两处应为fine，而不是file。
+    it's file. 是个病句。
+
+[33mcommit 43590f3bbddd88faa0da583701d9251ba288f5bf[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 13:50:28 2019 +0800
+
+    Update README.md
+
+[33mcommit 0a109c990169cf3628ad6729c12e7e0896998d42[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 13:49:39 2019 +0800
+
+    ANAYSIS -> ANALYSIS
+
+[33mcommit 756aabc44ce5c52d40d04af21e6f16c4e7544ce6[m
+Author: chenhao1980 <chenhao121@gmail.com>
+Date:   Thu Mar 28 10:32:37 2019 +0800
+
+    Update README.md
+    
+    而后用更好的体验阅读本书。->而后就能用更好的体验阅读本书。
+
+[33mcommit ca7b474f2e9e1a1c30e31f4b539b2db39e2fabbd[m
+Author: Michael <zhangziwu811@gmail.com>
+Date:   Thu Mar 28 17:47:00 2019 +1300
+
+    ANAYSIS -> ANALYSIS
+
+[33mcommit 9e4b4b4293b1ef0ed8ca12a19909de0537edf399[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 09:52:11 2019 +0800
+
+    remove spiral image from cover
+
+[33mcommit 7ce5a091c41139ab12ee61ca408260e88cb5fa22[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 09:50:24 2019 +0800
+
+    remove spiral image from cover
+
+[33mcommit 1ba7872642042524afcfd0b622059a770e93340b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 28 08:55:39 2019 +0800
+
+    Tupple -> Tuple #454
+
+[33mcommit 3e3b3a338f3cb6a87ac8b4ef33cb0e8ca56078ca[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Wed Mar 27 23:02:25 2019 +0800
+
+    Tupple -> Tuple
+    
+    拼写错误，多了一个p
+
+[33mcommit 49b5df703ebde14dbbfc338e8cabc6723e5a685a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 20:58:54 2019 +0800
+
+    remove a mistaken code cell
+
+[33mcommit 2d74849025cd0843f7aa01fb552dd1f94558ce41[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 20:58:31 2019 +0800
+
+    remove a mistaken code cell
+
+[33mcommit eda91e1f9eb7af891bdedb57a0c83a625211ecf1[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 20:56:18 2019 +0800
+
+    Update Part.3.B.4.regex.ipynb #450
+
+[33mcommit 37400be6c4cd305928603b286ba03a97f00f8127[m
+Author: Ningbo <365220121@qq.com>
+Date:   Wed Mar 27 20:07:43 2019 +0800
+
+    Update Part.3.B.4.regex.ipynb
+    
+    Windows(?=95|98|NT|2000) -> Windows(?!95|98|NT|2000)
+
+[33mcommit b98d87df223d11f281d1f72f48f70f82c71e329d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 20:47:16 2019 +0800
+
+    Update Part.3.D.indispensable-illusion.ipynb #447
+
+[33mcommit ac3f430f6f81405349324e30a62a9b1ceee6c933[m
+Author: biubiubiubiu233 <46734057+biubiubiubiu233@users.noreply.github.com>
+Date:   Wed Mar 27 02:17:45 2019 -0700
+
+    Update Part.3.D.indispensable-illusion.ipynb
+    
+    你根本没办法直到你不懂正则表达式这个事实让你 “未得到” 什么（不是 “失去”，因为你不曾拥有）。
+    =>
+    你根本没办法知道你不懂正则表达式这个事实让你 “未得到” 什么（不是 “失去”，因为你不曾拥有）。
+
+[33mcommit d9d3350d6d26963346573ae6ed9ac76091898403[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 15:15:36 2019 +0800
+
+    create(something) -> create()
+
+[33mcommit c6950a1a281236ba119dd876e86e47a0d33b7e80[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 14:52:30 2019 +0800
+
+    调用任意关键字参数时应该使用** #439
+
+[33mcommit 97b65bacab0c57b33fc83c62e975f4b21baad75a[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Wed Mar 27 11:37:50 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+    
+    line:522, "Imutable"改为“Immutable”。
+
+[33mcommit a0012a26725ab1dde09731e8d181541f8cd05a79[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 14:50:26 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb #441
+
+[33mcommit 990d336031d527349fe32e28a0bab6349b450d8b[m
+Author: panyifan <panyifan@chinac.com>
+Date:   Wed Mar 27 10:56:09 2019 +0800
+
+    1059行 调用任意关键字参数时应该使用**
+
+[33mcommit bc542b68c31aee2d9af7d1e8aeabeb3df329b5ea[m
+Author: Li xiao feng <maclxf@users.noreply.github.com>
+Date:   Wed Mar 27 08:54:22 2019 +0800
+
+    调整Jupyterlab 的安装与配置的链接地址
+    
+    T-appendix.jupyter-installation-and-setup.ipynb -> T-appendix.jupyter-installation-and-setup.md
+
+[33mcommit aaae6604ae21db519d593d3c5a5d640bc0e9916f[m
+Author: Li xiao feng <maclxf@users.noreply.github.com>
+Date:   Wed Mar 27 08:14:25 2019 +0800
+
+    Update Part.1.E.2.values-and-their-operators.md
+    
+    167行：其中 `+` 和 `-` 可以对单个值进行操作，`-3`；其它的操作符需要有两个值才能操作。->其中 `+` 和 `-` 可以对单个值进行操作，例如：`-3`；其它的操作符需要有两个值才能操作。
+    添加“例如”二字
+
+[33mcommit dbb11c4562d9e3b18907ee19f8bc6c9e5278f819[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 27 09:50:38 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb #437
+
+[33mcommit f2633ecd269f738e3029a2cb484d9061f8535cc6[m
+Author: Yuns Xie <yuns.xie@qq.com>
+Date:   Wed Mar 27 08:48:57 2019 +0800
+
+    Update Part.1.E.6.containers.ipynb
+
+[33mcommit ac1815db9b63ff40b051897ac3c640b488d7606b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 21:30:46 2019 +0800
+
+    ， -> 。 #431
+
+[33mcommit b33511aa4ee7ec41163a8bf38b20bfee5f9c7bdf[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 21:27:56 2019 +0800
+
+    任意本义字符处 大小写出错 #433
+
+[33mcommit a917b84fcd9667a3b17fa715f177cff933b3331b[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 21:27:31 2019 +0800
+
+    任意本义字符处 大小写出错 #433
+
+[33mcommit 580cf98702c9acfbcee4442998c3f61592005d98[m
+Author: Alivebo <48936770+Alivebo@users.noreply.github.com>
+Date:   Tue Mar 26 18:02:02 2019 +0800
+
+    ，  ->   。
+    
+    将逗号改为了句号，觉得短句阅读体验会好些。（向老师学习学习学习再学习）
+
+[33mcommit 9773b5ed72642bc38b1c418268557abab1070302[m
+Author: Alivebo <48936770+Alivebo@users.noreply.github.com>
+Date:   Tue Mar 26 17:20:42 2019 +0800
+
+    改动1
+    
+    多出的“在”字似乎有语法问题
+
+[33mcommit dead4fac7e036456d4f84b7d20b443606df737cc[m
+Author: 巴都万 <46479117+pad0van@users.noreply.github.com>
+Date:   Tue Mar 26 15:47:08 2019 +0800
+
+    将安装文件设置为可执行
+
+[33mcommit edb4d93773789fe223aec0902bd265d357ad03ff[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 12:56:51 2019 +0800
+
+    将多出来的一个括号删除 #424
+
+[33mcommit 05b43e226103e4f28107e312dbc4effec0fe42fa[m
+Author: zhangyuan <48574540+zhangyuan3@users.noreply.github.com>
+Date:   Tue Mar 26 11:53:30 2019 +0800
+
+    将多出来的一个括号删除
+
+[33mcommit 27f4620d1a3afa92633512f2fb14b91376b6692f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 11:38:31 2019 +0800
+
+    Rivision -> Revision
+
+[33mcommit 285f45b5880ac62881892aab00adb6eff0c160cf[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Tue Mar 26 11:09:23 2019 +0800
+
+    Fix typo error.
+
+[33mcommit 3321971721ecc1f2848d76365d603a0bfa5ac306[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 09:49:36 2019 +0800
+
+    fix punctuation
+
+[33mcommit d97584d8e50950e7e65d5cb257766fb034619ed7[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Tue Mar 26 09:13:28 2019 +0800
+
+    Fix punctuation error.
+
+[33mcommit 37f3694323cd449821a1cc5f163dcdb58db6d3a8[m
+Author: engineerWang <289509175@qq.com>
+Date:   Tue Mar 26 01:04:13 2019 +0800
+
+    Update Part.3.H.prevent-focus-drifting.ipynb
+    
+    修改错别字
+
+[33mcommit 15af0f51e24c8554b53ff46a75790661b08b90ca[m
+Author: PanPan <towerzju@hotmail.com>
+Date:   Mon Mar 25 22:38:18 2019 +0800
+
+    n -> n - 1 及该段语句修改
+    
+    除数 i 应为从 2 到 n - 1 ，而不是 2 到 n 。
+    重整了一下该段语句，顺便添加了“遍历”的概念。
+
+[33mcommit 899a45e0f9dcbaf51e500fa5aa1e3c313b90b580[m
+Author: seanchen <48579569+gogogomove@users.noreply.github.com>
+Date:   Mon Mar 25 22:20:36 2019 +0800
+
+    Update Part.1.D.preparation.for.reading.ipynb
+    
+    based on the understading, made modification on line 136
+    from "或者是在阅读印刷版" to "或者不是在阅读印刷版"
+
+[33mcommit b0a2d0b0705535e4c877e02ca076f1ca2f92488e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 26 01:05:25 2019 +0800
+
+    “事儿” -> “事”
+
+[33mcommit 4f44b7f20cdf510aebaf6ac77f82dd118c356821[m
+Author: ZD <evolving.zd@gmail.com>
+Date:   Sun Mar 24 23:34:14 2019 -0700
+
+    Change <set-items> to <set-item>
+
+[33mcommit 80020f1ca01e7217b649fcb3857e85d843b35748[m
+Author: kagamiqyah <33841327+kagamiqyah@users.noreply.github.com>
+Date:   Mon Mar 25 11:55:53 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    ‘换乘’--‘换成’
+
+[33mcommit dcf079e882faf2d53a0ac781150fefda3b184377[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 25 11:55:12 2019 +0800
+
+    Fix lower case error.
+
+[33mcommit eae80d20489a58c2204fb619543ddd63ccf1ae5e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 25 11:39:03 2019 +0800
+
+    add github webui sync fork to upstreaming repo
+
+[33mcommit 379232c9de5d8aadcd47bcd3b57524d535d65dad[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 25 10:43:13 2019 +0800
+
+    Fix typo error.
+
+[33mcommit c74650ef0d3d2f483f5770f3df5b731e09bee37f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 25 08:29:43 2019 +0800
+
+    remove 知到
+
+[33mcommit 70a61ce41fe2f51473295c9de268f969b5bcf733[m
+Author: engineerWang <289509175@qq.com>
+Date:   Mon Mar 25 02:33:35 2019 +0800
+
+    Update 01.preface.ipynb
+
+[33mcommit 5697677d294280590d417ce04d6e501f5d3b161c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 17:13:33 2019 +0800
+
+    markdown update respectively.
+
+[33mcommit 64b63b6c82d33947a42434aa0b6e715d2713fcb7[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 17:12:45 2019 +0800
+
+    markdown update respectively.
+
+[33mcommit 3959381efaa92e74bdf936e6d6afc498146627fc[m
+Author: Bingfeng <wangbingfeng97@gmail.com>
+Date:   Sun Mar 24 13:06:15 2019 +0800
+
+    add ，
+
+[33mcommit 97d92b3bd0f9d55a325734c250505c8444c7eb47[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Sun Mar 24 13:46:44 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    line：628，整数“被”改为整数“倍”。
+
+[33mcommit ccff4c09da50157442571f0201c1943e50f06c3b[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Sun Mar 24 14:36:59 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    line：1307，关于更多可能“得”改为关于更多可能“的”
+
+[33mcommit 6ee25ff876430fd6ecb08b83f13d345639aa0f5e[m
+Author: auroroa <tanyingzhi@meida.com>
+Date:   Sun Mar 24 15:24:39 2019 +0800
+
+    "不能当作" -> "不能被当作"
+
+[33mcommit d3668a170a2c1c6cb755acd5db31065dcc1293f1[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 12:13:01 2019 +0800
+
+    删除一个多余的“是”字。Update Part.1.E.1.entrance.ipynb #378
+
+[33mcommit 7788086a14e124f74fb16dcce0b40009aa66d8e9[m
+Author: Galaxy1227 <39395508+Galaxy1227@users.noreply.github.com>
+Date:   Sun Mar 24 11:53:48 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb
+    
+    line 835：改“速成往往是真的是可能、可行的。”为“速成往往真的是可能、可行的。”删除了“真的”前面的“是”。
+
+[33mcommit d85e28d697c21c4497940da5f5e1d176f5a6a832[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 11:36:00 2019 +0800
+
+    remove unnecessary ```
+
+[33mcommit d76227d4cb4a813cdd1270b39369656b899e2948[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 11:12:58 2019 +0800
+
+    add space char before and after `
+
+[33mcommit 95ef3ffc502f8870b4ab057af156db367edadb72[m
+Author: leeduckgo <albertschr@163.com>
+Date:   Sun Mar 24 10:24:39 2019 +0800
+
+    fix[Part 1.E.2]modified a code block
+    
+    `float(abs(-3.14159))` -> `float(int(abs(-3.14159)))`
+    
+    根据描述：`比如，`abs()` 函数，就会返回传递给它的_值_的*绝对值*；`int()` 函数，会将传递给它的值的小数部分砍掉；`float()` 接到整数参数之后，会返回这个整数的浮点数形式：`，代码应该是如上那样的——因为 float() 中应该是整数参数。
+
+[33mcommit b06974b75531e940da0f266b6fa93e808a65eb18[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 09:30:36 2019 +0800
+
+    “但，”、“又，” 改为“但”、“又”
+
+[33mcommit 017ccd6dcbdb27052ae4a5c48a3c07341311a09b[m
+Author: ZD <evolving.zd@gmail.com>
+Date:   Sat Mar 23 15:27:23 2019 -0700
+
+    Remove repeated expression & reorganize logical relationship
+
+[33mcommit 827278aa674241aeb1da1f6aa3aea5aea7a9e602[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 01:02:36 2019 +0800
+
+    change variable names to fit PEP8
+
+[33mcommit 801127f120d02bd885961b969aa16d21d3371e84[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 24 01:01:39 2019 +0800
+
+    change variable names to fit PEP8
+
+[33mcommit 8fa5e1ae25382025956ad0e965799ce7fed0054a[m
+Merge: 111fd58 5fe330d
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 22:58:55 2019 +0800
+
+    Merge branch 'master' of github.com:selfteaching/the-craft-of-selfteaching
+
+[33mcommit 111fd58a55794c34ddd1e9f4d42da1ce74168c6a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 22:58:41 2019 +0800
+
+    remove redundant space
+
+[33mcommit 5fe330dc6dbe604fae84530627ae7d458b0cc193[m
+Author: yinqc <damon.dut@gmail.com>
+Date:   Sat Mar 23 22:49:26 2019 +0800
+
+    Update Part.2.E.deliberate-thinking.ipynb
+    
+    移除多余的空格
+
+[33mcommit 74cb3579e20eb1a95d8d5dae37b5a704727d4ca8[m
+Merge: 538c2c4 a7b4c91
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 16:06:30 2019 +0800
+
+    Merge branch 'master' of github.com:selfteaching/the-craft-of-selfteaching
+
+[33mcommit 538c2c4ff4a202c95d8746d015821143ba865b2c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 16:06:14 2019 +0800
+
+    `.cvs` 文件 -> `.csv` 文件
+
+[33mcommit a7b4c914996b342c3cdb811d3b011d7b5baaede2[m
+Author: cyt007-4128 <693894305@qq.com>
+Date:   Sat Mar 23 15:50:16 2019 +0800
+
+    .cvs-->.csv
+    
+    拼写错误，应为csv格式
+
+[33mcommit a3267092717ebc86e16bc49fd2a1d530f3dc7b7a[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 16:03:55 2019 +0800
+
+    minor
+
+[33mcommit 0ad4940b05dc11be7b1935920482ee5b63200f6c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 16:02:47 2019 +0800
+
+    update links to markdown README.md
+
+[33mcommit 389db043a2706b5a600086bf46b63f0fcf1e5cea[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 16:00:52 2019 +0800
+
+    update link
+
+[33mcommit 30f1f7fd4fbf8a2c1772c86e3f108b8569e771a5[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 23 15:59:07 2019 +0800
+
+    add markdown edition/sub-directory
+
+[33mcommit 45d0cb8acc47b8803e8cb9c998bb25103e20c7e3[m
+Author: jiaweidong <wjia2020@126.com>
+Date:   Sat Mar 23 09:05:52 2019 +0800
+
+    typo TOELF -> TOEFL
+
+[33mcommit abe455a5804e5e2a90bfe772d049c2dcf84880c0[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sat Mar 23 08:17:40 2019 +0800
+
+    Part.3.A的一处表达修改
+    
+    都是这样在许多年前被埋下、在许多年后生根发芽，茂盛发达 ->
+    都是这样在许多年前被埋下，在许多年后生根发芽、茂盛发达的
+
+[33mcommit 5c2d35d6b8cf5eefdb03f39adba77c7a51608e07[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sat Mar 23 08:08:12 2019 +0800
+
+    Part.3.A的一处表达修改
+    
+    因为你知道那不靠天分和智商，它靠的就一件事儿，不混时间，刻意思考、刻意练习 ->
+    因为你知道那不靠天分和智商，它靠的是另外几件事：不混时间，刻意思考，以及刻意练习
+
+[33mcommit 75865a8cc79d84f1c219e67b919ce3375df49ab6[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sat Mar 23 07:33:59 2019 +0800
+
+    Part.2.E的一处标点修改
+    
+    刻意思考，就是所谓的琢磨，琢磨这事儿...->
+    刻意思考，就是所谓的琢磨。琢磨这事儿
+
+[33mcommit 23a6a4bffd47fb15e6616f141f664e6cb65a3f6b[m
+Author: Bingfeng <wangbingfeng97@gmail.com>
+Date:   Fri Mar 22 19:05:02 2019 +0800
+
+    change chinese brackets to english brackets
+
+[33mcommit 65e34f9a77f02026648d998dfe12b629175abe7a[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Fri Mar 22 19:14:31 2019 +0800
+
+    Better expression.
+
+[33mcommit 691e61b2b96d3138b2b9ce2f571455a67978ba33[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Fri Mar 22 14:42:33 2019 +0800
+
+    Remove redundant word.
+    
+    delete redundant word "去“。
+
+[33mcommit 5b458aa5400c8306ac1b33811be5b285e7776158[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 22 11:35:46 2019 +0800
+
+    fix: TeachYourself to teach_yourself PEP8
+
+[33mcommit a07e4909d5a3e8b2a5e88c1df9f8feae546c924c[m
+Author: 吴 昊 <48305811+SZBillWu@users.noreply.github.com>
+Date:   Fri Mar 22 00:43:05 2019 +0800
+
+    Update T-appendix.jupyter-installation-and-setup.ipynb
+    
+       安装完毕之后，可以看看各个你将要用到的可执行命令都在什么地方，用 `which` 命令   后面加上（windows下用`where`命令）
+
+[33mcommit bc102baa38c56d2dbbb0caf500eb2142c1584789[m
+Author: 吴 昊 <48305811+SZBillWu@users.noreply.github.com>
+Date:   Fri Mar 22 00:11:25 2019 +0800
+
+    Update T-appendix.jupyter-installation-and-setup.ipynb
+    
+    "看看各个你将要用到的可执行命令都在什么地方，用 `which` 命令"，后面加上"（windows下用'where'命令）"
+
+[33mcommit 778b9982c27b1f62b273e7af99aab1f4cf933246[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 22:21:17 2019 +0800
+
+    Fix word spelling error
+    
+    MoSCow -> MoSCoW
+
+[33mcommit 974905247a5d5ca56b08216ff8d180d044e79cb0[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 22:31:12 2019 +0800
+
+    Fix word spelling error
+    
+    那一章 -> 每一章
+    用那一章感觉指代不明确；我相信每一章老师都进行反复修改和重构，老师辛苦了
+
+[33mcommit f93fd52bc7f366819ebf56f454058b6e916882b4[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 22:46:01 2019 +0800
+
+    Fix word using error
+    
+    迭代器 -> 生成器
+    根据上下文理解，应该是生成器用yield，因为我看上面的迭代器还用了return。
+    顺带说，下一段，说生成器被next（）调用，什么什么的，确实有点让人费解。
+
+[33mcommit fef171f79aa93e18558c844ea18452d8061b31de[m
+Author: YanHui <yhhero4016@sina.com>
+Date:   Thu Mar 21 23:39:59 2019 +0800
+
+    回滚
+
+[33mcommit a088da2b6cba3c081a366f9175f606957e8deedb[m
+Author: YanHui <yhhero4016@sina.com>
+Date:   Thu Mar 21 23:37:59 2019 +0800
+
+    行1582中KeyEroor写作，改为KeyError
+
+[33mcommit 67e515eb5391b9ee98154ca43397868bb96eaef7[m
+Author: mulai <mulai.wx@koubei.com>
+Date:   Thu Mar 21 23:13:50 2019 +0800
+
+    change 有位后来已经在美国读书博士毕业了的学生来信 to 有位后来在美国读书已经博士毕业了的学生来信
+
+[33mcommit e0b7df26a188f3bc0b5e63b147e4724a0d412c65[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 19:21:56 2019 +0800
+
+    Fix spelling error
+    
+    于->与
+
+[33mcommit d576d4c1e2491328dfe27e1ad3b928f1fe82fad7[m
+Author: wangzezhong <wangzezhong@zuoyebang.com>
+Date:   Thu Mar 21 18:35:56 2019 +0800
+
+    的下 --> 下的
+
+[33mcommit 5fe3c29bbad2edd076c8cbf1ebcf74525998f178[m
+Author: BlackcatLL <38596985+BlackcatLL@users.noreply.github.com>
+Date:   Thu Mar 21 17:26:25 2019 +0800
+
+    update 以用带练 to 以用代练
+    
+    可能错别字修正
+
+[33mcommit 7ce165c7aee130bc6c25aa52b871d0ded1eaa296[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 19:08:19 2019 +0800
+
+    Fix word spelling error
+    
+    Replece -> Replace
+
+[33mcommit 85b77dd96f0159a7e62fa387a922de479402347a[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Thu Mar 21 15:45:52 2019 +0800
+
+    Fix word spelling error
+    
+    称为 -> 成为
+    通过前面加上两个下划线的方式，将其变成一个私有变量；成为 可能更合适，通过一种方式变成一个什么什么的。
+
+[33mcommit 9153463d0c86f94bd7bcdfec90bb0fad7de1f9ae[m
+Merge: 8b7d739 c3cc5f0
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 09:59:21 2019 +0800
+
+    Merge branch 'master' of github.com:selfteaching/the-craft-of-selfteaching
+
+[33mcommit 8b7d73948583dded6bbc078aabf947aafb9955ee[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 09:59:08 2019 +0800
+
+    add back slash to \n
+
+[33mcommit c3cc5f015e410a7cf7eb67bb5c3474ca06199539[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 09:38:08 2019 +0800
+
+    仅仅是为了让读者“入门”。--> 如果仅仅是为了让读者“入门”的话。编程入门书籍
+
+[33mcommit 2b2683f3269aeccef8dee608d6b0c621d908182d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 09:34:23 2019 +0800
+
+    fix typo, Objedct -> Object
+
+[33mcommit 10e005e2ae0b88c1760d0bbf3c2a863d6d6b6e4e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 08:45:15 2019 +0800
+
+    fix PEP8 naming
+
+[33mcommit 3fb5cb6e6bcb279f48ab1aaf666f992f9a835021[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 21 08:41:17 2019 +0800
+
+    add a section to the chapter.
+
+[33mcommit 315a1fe9d4ba9b127c2e21b6e4e51eafbb0176bc[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Thu Mar 21 00:41:53 2019 +0800
+
+    typo
+
+[33mcommit fe14859996365ccac6d41f3e36a9bf10f601dca0[m
+Author: icearl <icearl@qq.com>
+Date:   Wed Mar 20 23:03:50 2019 +0800
+
+    fix: * and +
+
+[33mcommit 3d88d1f190f41d1f2a8d7fb03aac4ede06b6087d[m
+Author: icearl <icearl@qq.com>
+Date:   Wed Mar 20 23:02:10 2019 +0800
+
+    fix: * and +
+
+[33mcommit faf0795141a419ba67a6e7d98d25aca04facd492[m
+Author: 王冰峰 <wangbingfeng@wangbingfengs-MacBook-Pro.local>
+Date:   Wed Mar 20 21:15:11 2019 +0800
+
+    change #  注意，如果字符串是 identifier，返回值也是 True  to #  注意，如果字符串是 identifier，返回值也是 False
+
+[33mcommit 418a1225552f77e81a78a381c380fcc9e1eabd63[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Wed Mar 20 21:56:20 2019 +0800
+
+    Fix word error
+    
+    突然产相互关联 ->突然产生相互关联
+    个人推测老师想要表达的是产生，遂加上生；如果只改一个字的话，用突然间也是可以的，但前面有神经突出之间了，就用产生挺好的。
+
+[33mcommit 7240f74a723d0f98046789101a165ffc4cf5b761[m
+Author: zhouyinyun <zhouyinyun@gmail.com>
+Date:   Wed Mar 20 20:02:12 2019 +0800
+
+    Update Part.2.B.deliberate-practicing.ipynb
+    
+    公共号改公众号
+
+[33mcommit 186b69f4a2c3e7fd789171fbd1d199c12e1a0211[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Wed Mar 20 21:30:47 2019 +0800
+
+    Fix word spelling error
+    
+    MoSCow ->MoSCoW
+    结合上文以及维基百科，w应该大写，遂改写为MoSCoW
+
+[33mcommit b46f6c31e59c38632dda465e5f366f06f37614b3[m
+Author: cyt007-4128 <693894305@qq.com>
+Date:   Wed Mar 20 18:29:21 2019 +0800
+
+    Arugment-->Arguments
+    
+    单词拼写错误Arugment-->Arguments
+
+[33mcommit 84249b0f76890d3ce7140edff000b0af51f9ba8a[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Wed Mar 20 15:29:02 2019 +0800
+
+    Fix spelling error
+    
+    影相 -> 影像
+    在线新华字典能查到影像 ，查不到影相；附链接
+    http://xh.5156edu.com/html5/41034.html
+
+[33mcommit a44ddc0b25ae9195292543b1e26bb124190c0d00[m
+Author: Xiaoming Tam <tanxiaoming121@foxmail.com>
+Date:   Wed Mar 20 17:04:18 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb
+    
+    change '编译器' to '解释器', since python is an explanatory language.
+
+[33mcommit 5c5ec15c73117ea623773be0b95369566ea95194[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 20 14:42:10 2019 +0800
+
+    add link to "time-as-a-friend" to the example.
+
+[33mcommit 198196aa5e6fd478b3d93dd6876622d70acefcbf[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 20 11:54:44 2019 +0800
+
+    add space before and after unicode quotes
+
+[33mcommit 1489bc3196f9efa127d9638dc1537c4e914c9728[m
+Merge: 8884a12 7a4e919
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 20 11:46:00 2019 +0800
+
+    Merge branch 'master' of github.com:selfteaching/the-craft-of-selfteaching
+
+[33mcommit 8884a12b4056b3050aa9313e7fa553af39526710[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Wed Mar 20 11:45:48 2019 +0800
+
+    add space before and after English words between Chinese characters.
+
+[33mcommit 7a4e919f94b3a2a6fb28e18941764f03d3cb2f3e[m
+Author: ckmessi <ckmessi@163.com>
+Date:   Wed Mar 20 09:30:04 2019 +0800
+
+    fine tune on format by correcting ‘empty sequences’ to `empty sequences` in Part1.E.2
+
+[33mcommit 369ce819026a06926c2ebd020d171cc99ed450bb[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Wed Mar 20 09:18:36 2019 +0800
+
+    Fix spelling error
+    
+    再->在
+
+[33mcommit a8bda5c8ef97d544f3ef57447c5ef93567bfaf48[m
+Author: zz0eyu <43516782+zz0eyu@users.noreply.github.com>
+Date:   Wed Mar 20 09:25:53 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    代码执行结果的字符串输出中拼写错误
+    starstwith->startswith
+
+[33mcommit 791a700a89fa0f190589fae6676b028fa2aa7c95[m
+Author: zz0eyu <43516782+zz0eyu@users.noreply.github.com>
+Date:   Wed Mar 20 09:41:00 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    执行结果中的字符串与代码中的字符串不符：
+    istitle -> isupper
+    isnumeric -> isprintable
+    isnumeric -> isspace
+
+[33mcommit 1bff2aff9811ea44105ecb073346b22fed83f926[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Wed Mar 20 01:07:51 2019 +0800
+
+    fix link
+
+[33mcommit 3cd2459fdef6ac3c62f29da54d085f1069f73e6b[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Wed Mar 20 00:29:32 2019 +0800
+
+    fix typo
+
+[33mcommit 64f7b8b73da5394f4f4fe7a40f6ff96ef88c61a9[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Wed Mar 20 00:02:16 2019 +0800
+
+    fix link
+
+[33mcommit 514c6c841f293a3863595cd18ac23dcacb68b4e6[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Tue Mar 19 23:54:24 2019 +0800
+
+    fix link
+
+[33mcommit 23839add3484f08e73815183fda14476b5f2260f[m
+Author: jiaweidong <wjia2020@126.com>
+Date:   Tue Mar 19 23:16:04 2019 +0800
+
+    typo and repetition
+    
+    typo: literable -> iterable
+    repetition: remove the second 两个
+
+[33mcommit d4e7163ee3fa93acb6c17f641b9948310648acb2[m
+Author: emptyWang <guniyige@gmail.com>
+Date:   Tue Mar 19 20:36:56 2019 +0800
+
+    Substrct --> Subtract  Interect --> Intersect
+    
+    The image with wrong words, use sketch fix it.
+
+[33mcommit 7309b234c9f591b84248817892cda3bd2065cd35[m
+Author: JACK HAN <841226230@163.com>
+Date:   Tue Mar 19 18:15:17 2019 +0800
+
+    修改个别错误
+
+[33mcommit 739e70d0d790060fab588200631f717acba9483d[m
+Merge: dc9784f 783601a
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 16:33:56 2019 +0800
+
+    Merge pull request #269 from wubaiqing/master
+    
+    Fix: 修复人类发展指数（Human Development Index）因为没有使用blob导致链接404问题、新增原文链接。
+
+[33mcommit dc9784fe1adf53210309de1c43567eea12c966ea[m
+Merge: 20982b0 39f199c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 16:32:53 2019 +0800
+
+    Merge pull request #270 from ljqbpm/master
+    
+     Part.2.A的一处表达修改
+
+[33mcommit 39f199c5bd0aeb0fc77b7c58431aa717bd76a925[m
+Merge: f3fd76b 3f164df
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Tue Mar 19 15:39:17 2019 +0800
+
+    Merge pull request #3 from ljqbpm/ljqbpm-patch-1
+    
+    Part.2.A的一处表达修改
+
+[33mcommit 3f164df951d7613313fd35a5c7361610156832fa[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Tue Mar 19 15:38:54 2019 +0800
+
+    Part.2.A的一处表达修改
+    
+    绝大多数人从未区分过这些个阶段->
+    绝大多数人从未区分过这几个阶段
+
+[33mcommit 783601a072665454511d21bd599d4ba1a70cce01[m
+Author: wubaiqing (琉璃) <wubaiqing@vip.qq.com>
+Date:   Tue Mar 19 15:31:24 2019 +0800
+
+    Fix: 修复人类发展指数（Human Development Index）因为没有使用blob导致链接404问题、新增原文链接。
+
+[33mcommit 20982b04af93d4fc3a7fd01c00fb89ab8ace81ad[m
+Merge: a6bf966 f3fd76b
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 15:15:19 2019 +0800
+
+    Merge pull request #266 from ljqbpm/master
+    
+     Part.1.F的一处表达修改
+
+[33mcommit a6bf9663a9f3655c0356d2a3337b93d6116db763[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 15:14:10 2019 +0800
+
+    smart-questions url
+
+[33mcommit f3fd76b829756077331ffd043cb4febf11fc3927[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Tue Mar 19 15:12:43 2019 +0800
+
+    Part.1.F的一处表达修改
+    
+    竟然是绝大多数人并不懂的->
+    绝大多数人竟然不懂
+
+[33mcommit 13ed4e60e3f021961db077387759557a63529cf0[m
+Merge: a1fd33a 5779069
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 14:57:12 2019 +0800
+
+    Merge pull request #258 from HarryYC/3.B.4-better-example
+    
+    Better example in Part.3.B.4.regex.ipynb
+
+[33mcommit a1fd33af4e454dcf0f5cc123653e42268130146f[m
+Merge: 79ce043 7af1286
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 14:56:01 2019 +0800
+
+    Merge pull request #256 from MooNiSLe/From-MooNiSLe
+    
+    Update README.md
+
+[33mcommit 79ce0439153247c35fb57d06116bf9bc5851abae[m
+Merge: 66375a4 060c29f
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 14:53:34 2019 +0800
+
+    Merge pull request #264 from HarryYC/3.B.4-add-example
+    
+    Add example in Part.3.B.4.regex.ipynb
+
+[33mcommit 441e946a30215785b07e4952434649e85f0ae2eb[m
+Merge: be0fc41 66375a4
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Tue Mar 19 14:03:29 2019 +0800
+
+    Merge pull request #2 from selfteaching/master
+    
+    update
+
+[33mcommit 060c29fa0ec55bb094bed94b0cae9bc76d19bf61[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Tue Mar 19 13:47:04 2019 +0800
+
+    add example
+
+[33mcommit 5779069b9d8a80bc22563e71a10ee599c029f2fb[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Tue Mar 19 11:47:32 2019 +0800
+
+    better word
+
+[33mcommit 66375a4a0bc3e41f28011b944039c28ec5733052[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Tue Mar 19 10:30:23 2019 +0800
+
+    修复错别字。
+    
+    修复错别字。
+    “再” -> “在”
+
+[33mcommit 7af1286a91f0dd89a6a3673d8b2e083597b2fb3d[m
+Author: MooNiSLe <48703807+MooNiSLe@users.noreply.github.com>
+Date:   Tue Mar 19 11:13:55 2019 +0800
+
+    Update README.md
+    
+    psudo -> pseudo
+
+[33mcommit 2fd6562691380b79be48908a46a9d837448300ca[m
+Merge: ac968ad 677adda
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 06:36:18 2019 +0800
+
+    Merge pull request #248 from bobbielf2/master
+    
+    Update Part.1.E.1.entrance.ipynb
+
+[33mcommit 677adda82542a54f937bb63a1c067ddd5fe9a2f6[m
+Author: Bowei "Bobbie" Wu <bobbielf2@gmail.com>
+Date:   Mon Mar 18 13:13:41 2019 -0400
+
+    Update Part.1.E.1.entrance.ipynb
+    
+    修正翻译名和指代
+    "微积分方程" -> "微分方程"
+    "后者" -> "前者"
+
+[33mcommit ac968ad9eca153068c170964d62d3a56ff1ef7a9[m
+Merge: c297ed7 a7c615d
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 00:22:05 2019 +0800
+
+    Merge pull request #245 from WeidongJia/master
+    
+    typo thrid -> third
+
+[33mcommit c297ed773df0dfc097a2789c6201cdc2d826b48f[m
+Merge: cd3d91b 71c3016
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Tue Mar 19 00:20:50 2019 +0800
+
+    Merge pull request #247 from wonesky/by-wonesky
+    
+    修复Part.3.A和Part.3.E的两处错别字
+
+[33mcommit 71c3016581a8d4411dd666585a0947ec681a055a[m
+Author: wonesky <wonesky@gmail.com>
+Date:   Tue Mar 19 00:09:34 2019 +0800
+
+    修复Part.3.A和Part.3.E的两处错别字
+
+[33mcommit a7c615db6ea029d5caa3a50dd3205557ef60c364[m
+Author: jiaweidong <wjia2020@126.com>
+Date:   Mon Mar 18 23:51:02 2019 +0800
+
+    typo thrid -> third
+
+[33mcommit cd3d91b26f5b73c385e26639df9e99c7da8d5306[m
+Merge: fa7f809 c4b95f9
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 23:45:38 2019 +0800
+
+    Merge pull request #243 from cytrock/from-xunyeting
+    
+    修改与编辑同义，修改替换为删除
+
+[33mcommit c4b95f9a7bc05c827c4df8d325d168f84bce8150[m
+Author: cyt007-4128 <693894305@qq.com>
+Date:   Mon Mar 18 23:21:31 2019 +0800
+
+    修改-->删除
+    
+    修改与编辑同义，故修改为删除
+
+[33mcommit fa7f809958e03cc80a8b79ad276a0330479af5a3[m
+Merge: b085c2d f596840
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 22:59:42 2019 +0800
+
+    Merge pull request #242 from icearl/from-icearl
+    
+    PEP8 代码风格
+
+[33mcommit b085c2d0a98f59e755c802f90f7319d9f1955ce1[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 22:58:22 2019 +0800
+
+    typo: comprehand -> comprehend
+
+[33mcommit f5968400dc719c5bf2bdab998c1342242f5c6d66[m
+Author: icearl <icearl@qq.com>
+Date:   Mon Mar 18 22:56:49 2019 +0800
+
+    PEP8 代码风格
+    
+    
+    1. 逻辑操作符两侧要加空格
+    2. 在关键字参数和默认参数值中的 = 两侧不加空格
+
+[33mcommit bde47becb4c51df8a413a2107610ecc3ab56836a[m
+Merge: 889e6e9 1e6a897
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 22:56:48 2019 +0800
+
+    Merge pull request #238 from cytrock/from-xunyeting
+    
+    Update Part.1.E.3.controlflow.ipynb
+
+[33mcommit 1e6a8977b52cf785e2cba14e253c9e1f399b6778[m
+Author: cytrock <693894305@qq.com>
+Date:   Mon Mar 18 22:16:05 2019 +0800
+
+    Update Part.1.E.3.controlflow.ipynb
+    
+    删除重复单词“执行”
+
+[33mcommit 889e6e94f29e3f60814604ef13121fa644d5a112[m
+Merge: 3bb1cfd 4226c33
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 21:13:17 2019 +0800
+
+    Merge pull request #234 from neo0007/by-neo0007.1st
+    
+     Fix T-appendix.git-introduction.ipynb misspelling
+
+[33mcommit 3bb1cfd8525a4f9ff768cff0e7e18a14946625c8[m
+Merge: e2277ea 03ccd42
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 21:13:04 2019 +0800
+
+    Merge pull request #235 from ucfyao/feature/fix_by_yaozihao
+    
+    fix S.O.L.I.D link format
+
+[33mcommit 03ccd42cb31c555132ef3011fdd75e93e4b816e1[m
+Author: yaozihao <yaozihao@yaozihao.cn>
+Date:   Mon Mar 18 20:57:10 2019 +0800
+
+    fix S.O.L.I.D link format
+
+[33mcommit 4226c33717b70e31edc79275b27115ea1b603bf2[m
+Author: neo0007 <mr.yliu@gmail.com>
+Date:   Mon Mar 18 20:52:44 2019 +0800
+
+     Fix T-appendix.git-introduction.ipynb misspelling
+    
+    Correct spelling errors：
+    Page：T-appendix.git-introduction.ipynb
+    Row 123:  `workding directory` -->  `working directory`
+
+[33mcommit e2277ea2a39515a28c2b152838fc25a600372068[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 19:20:47 2019 +0800
+
+    remove space char between Chinese Characters.
+
+[33mcommit 1ba9c96169eecc8bf808d784e7aa371b1aaa892e[m
+Merge: 97d929b da966fa
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 18:11:56 2019 +0800
+
+    Merge pull request #231 from longzhineng/longzhineng
+    
+    Fix Spelling Error
+
+[33mcommit da966faa92b4d68af3beaa9ffb50668da57fbcff[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Mon Mar 18 17:51:09 2019 +0800
+
+    Fix Spelling Error
+    
+    将其成为->将其称为
+
+[33mcommit 97d929bdbc8cb95e0383f511feb7e9f23dd8c036[m
+Merge: cc68a4f a4f6d69
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 17:02:04 2019 +0800
+
+    Merge pull request #229 from yiquncode/by-zhangyiqun
+    
+    Update Part.1.F.deal-with-forward-references.ipynb
+
+[33mcommit a4f6d69e7641c5543ed3b571c38a967bed9fb42d[m
+Author: ZHANG YIQUN <jeantoe@gmail.com>
+Date:   Mon Mar 18 16:53:43 2019 +0800
+
+    Update Part.1.F.deal-with-forward-references.ipynb
+    
+    学“些”代码的过程中 -> 学“写”代码的过程中
+
+[33mcommit cc68a4f61cac08cdc472e2d31240801eb0afd260[m
+Merge: 16738a9 1d4e4ee
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 15:46:40 2019 +0800
+
+    Merge pull request #228 from yingpingzhang/master
+    
+    Update Part.1.F.deal-with-forward-references.ipynb
+
+[33mcommit 1d4e4ee6a03142d9d0d9972ee873e9b2478c97db[m
+Author: zhangyingping <44121342+yingpingzhang@users.noreply.github.com>
+Date:   Mon Mar 18 15:44:50 2019 +0800
+
+    Update Part.1.F.deal-with-forward-references.ipynb
+    
+    就好像找黑暗中拼图一样，修改为就好像在黑暗中拼图一样
+
+[33mcommit 16738a9a4f510d6ca654c95ca02c77d38eaa1864[m
+Merge: 66760eb be0fc41
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 15:43:03 2019 +0800
+
+    Merge pull request #227 from ljqbpm/from-ljqbpm
+    
+     Part.3.E的一处表达修改
+
+[33mcommit be0fc41a970b2898e8c5b0adc7c2c2103543de00[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Mon Mar 18 15:38:31 2019 +0800
+
+    Part.3.E的一处表达修改
+    
+    学习得更全面，练习得更全面，使用得最全面->
+    学习得更全面，练习得更全面，使用得更全面
+
+[33mcommit c9cbaffccb657f395e6664f61db947903b8cb9e9[m
+Merge: 93463f1 66760eb
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Mon Mar 18 15:35:53 2019 +0800
+
+    Merge pull request #1 from selfteaching/master
+    
+    update
+
+[33mcommit 66760ebc8467d366be10612902d7a2da6c3dfeec[m
+Merge: 9160b33 63433b7
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 15:34:14 2019 +0800
+
+    Merge pull request #226 from yongchengzhao/by.zhaochengyong
+    
+    fix python grammar mistake. =+ -> +=
+
+[33mcommit 63433b724a8865da043172b05ec06cb6ab4c3fed[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 18 15:24:25 2019 +0800
+
+    fix python grammar mistake.
+
+[33mcommit 9160b3371e6211f27f681c670cc034779a23d0ce[m
+Merge: f62bd56 ffee9c0
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 14:23:18 2019 +0800
+
+    Merge pull request #224 from renkelvin/fra
+    
+    Fix image file name
+
+[33mcommit f62bd56d3385f85be2caf0f438f466471ecc3c89[m
+Merge: 4e319d9 ad552df
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 14:22:39 2019 +0800
+
+    Merge pull request #225 from yongchengzhao/by.zhaochengyong
+    
+    By.zhaochengyong
+
+[33mcommit ad552df15d53a4400198ba0ed6842803bace9734[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 18 14:19:04 2019 +0800
+
+    -1的布尔值是True
+
+[33mcommit 9b4be61ac3417b6beab94ed967d0b39e05942152[m
+Merge: 76d1c64 4e319d9
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 18 14:14:47 2019 +0800
+
+    Merge pull request #1 from selfteaching/master
+    
+    更新代码至最新
+
+[33mcommit ffee9c02f8a252b50f157603046364049837b4dd[m
+Author: Chuan Ren <renkelvin@gmail.com>
+Date:   Sun Mar 17 23:07:34 2019 -0700
+
+    Fix image file name
+    
+    Fix missing image in:
+    https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.3.D.indispensable-illusion.ipynb
+
+[33mcommit 4e319d989adadbda6023e9c3983575ce67f0778f[m
+Merge: 30e5b69 8e09ba0
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 14:04:46 2019 +0800
+
+    Merge pull request #223 from HarryYC/3.B.2-line-number
+    
+    Fix line number in Part.3.B.2.classes-2.ipynb
+
+[33mcommit 8e09ba0eb77dc97a168f8bbbae2c68a4bc78e0c9[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Mon Mar 18 13:55:06 2019 +0800
+
+    fix line number
+
+[33mcommit 30e5b696a86433f4a97eeeb729a843e14ec29b62[m
+Merge: a54b74c 5b44d12
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 13:49:31 2019 +0800
+
+    Merge pull request #217 from renkelvin/hey
+    
+    Update Part.1.C.must.learn.sth.only.by.reading.ipynb
+
+[33mcommit a54b74c4f1752fe61e25cf87bfd6e448d1037a23[m
+Merge: 134f468 1977b32
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 13:49:01 2019 +0800
+
+    Merge pull request #219 from renkelvin/patch-1
+    
+    Update Part.2.D.4-recursion.ipynb
+
+[33mcommit 134f468715b3d3fb366783ee05ac89325582b8a1[m
+Merge: 0d8ca9b 47e4565
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 13:48:32 2019 +0800
+
+    Merge pull request #220 from showa11/patch-2
+    
+    描述错误
+
+[33mcommit 47e4565ee16ff1f608268987250909379156fff8[m
+Author: Boson <shibushishang@gmail.com>
+Date:   Mon Mar 18 13:40:57 2019 +0800
+
+    描述错误
+
+[33mcommit 1977b3220a0631c49a6f24d9dfa64511cde52172[m
+Author: Chuan Ren <chuanr@google.com>
+Date:   Sun Mar 17 22:39:45 2019 -0700
+
+    Update Part.2.D.4-recursion.ipynb
+
+[33mcommit 5b44d12894d748dd95db0c52a530e0421a393061[m
+Author: Chuan Ren <renkelvin@gmail.com>
+Date:   Sun Mar 17 22:10:50 2019 -0700
+
+    Update Part.1.C.must.learn.sth.only.by.reading.ipynb
+    
+    Google Assistant的awake word曾经从"OK Google"改为"Hey Google"，未曾使用"Hi Google"
+
+[33mcommit 0d8ca9bd009463bc8ff86daac62a5c01ee668f48[m
+Merge: a98eb36 ba90f56
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 12:31:40 2019 +0800
+
+    Merge pull request #214 from Fazx/master
+    
+    添加遗漏字母
+
+[33mcommit a98eb36a32f10ca171cc4d03f341fab1de948920[m
+Merge: 76d1c64 06d62c8
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 12:31:21 2019 +0800
+
+    Merge pull request #216 from yongchengzhao/by.zhaochengyong
+    
+    修复描述method名称错误，str没有brfind method。
+
+[33mcommit 06d62c888bab75eb6665eeba7760502e4347e92d[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Mon Mar 18 11:57:08 2019 +0800
+
+    修复描述method名称错误，str没有brfind method。
+    
+    笔误，str没有brfind method。
+
+[33mcommit ba90f56d4c0db9db89e669c7dee7238b77e92230[m
+Author: Fazx <30384789+Fazx@users.noreply.github.com>
+Date:   Mon Mar 18 11:42:23 2019 +0800
+
+    添加遗漏字母
+
+[33mcommit 76d1c64792e34d3f29a1b2e1f60653d48cd02254[m
+Merge: 90bf1e3 f5be825
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 11:38:49 2019 +0800
+
+    Merge pull request #213 from linxixizhi/master
+    
+    调整语序
+
+[33mcommit f5be8254e7ff5e688217ed41bd53e5dbaa1442da[m
+Author: linxixizhi <501963347@qq.com>
+Date:   Mon Mar 18 11:15:07 2019 +0800
+
+    调整语序
+    
+    将“李笑来的打字速度”改为“李笑来打字的速度”，以对应前文“李笑来写书的速度”。
+
+[33mcommit 90bf1e371c98b58d6a1383e02a973dfb1a29a612[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Mon Mar 18 09:14:47 2019 +0800
+
+    fix order
+
+[33mcommit 36f8bd6458c38607d9796ca4b3bd4383792e4da9[m
+Merge: ab6784f 4fa6f61
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 08:45:21 2019 +0800
+
+    Merge pull request #200 from HarryYC/2.D.3-typo
+    
+    Typo in Part.2.D.3-lambda.ipynb
+
+[33mcommit ab6784fc124f3ea173d994f7d50517a7c18373de[m
+Merge: 02846cb 4573dc8
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 08:45:09 2019 +0800
+
+    Merge pull request #201 from lxy0xff/master
+    
+    Fix some typos
+
+[33mcommit 02846cbbd93e82f2f05d149bc99039dde95f1a42[m
+Merge: 84e0f6f 6432d15
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 08:44:28 2019 +0800
+
+    Merge pull request #202 from HarryYC/2.D.4-logic-error
+    
+    Fix sentence in Part.2.D.4-recursion.ipynb
+
+[33mcommit 84e0f6f9c658a7a2eda7c8a139f4f28ec17fbf0c[m
+Merge: e54fb2b e02e0dd
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 08:43:35 2019 +0800
+
+    Merge pull request #204 from HarryYC/2.D.4-translate
+    
+    Optimize translation in Part.2.D.4-recursion.ipynb
+
+[33mcommit e54fb2bfa9c823e8a3b81fc6c1b142030b37639a[m
+Merge: c0ad1c1 61005a9
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 08:43:09 2019 +0800
+
+    Merge pull request #206 from longzhineng/longzhineng
+    
+    标点符号修正
+
+[33mcommit 61005a991f899c36bec175220cda4377b3cf04d9[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Mon Mar 18 08:35:35 2019 +0800
+
+    标点符号修正
+    
+    ；->。
+    上下一共两句话，上一句结尾用的是句号；这一句结尾如果用逗号，感觉很奇怪，遂改为句号
+
+[33mcommit e02e0dda2f1313974d4eb09cc6c0bd41133ba7b4[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Mon Mar 18 06:07:09 2019 +0800
+
+    optimize translation
+
+[33mcommit 6432d154e61084fecfbfa9d0cc80aa659ac18a85[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Mon Mar 18 05:44:03 2019 +0800
+
+    fix error
+
+[33mcommit 4573dc80e2432a4cee021c4aec32b2eb46d64ca8[m
+Author: Xiangyu Liu <48123640+lxy0xff@users.noreply.github.com>
+Date:   Mon Mar 18 04:08:03 2019 +0800
+
+    fix: fix some typos
+
+[33mcommit 4fa6f6186ff2b90a5a4fb14bd0706b153934d391[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Mon Mar 18 03:04:00 2019 +0800
+
+    typo
+
+[33mcommit a9f1bb4882377c6f2e7bede09b91b67b90ca92db[m
+Merge: 179d79e c0ad1c1
+Author: BernieLiu <48123640+lxy0xff@users.noreply.github.com>
+Date:   Mon Mar 18 01:43:08 2019 +0800
+
+    Merge pull request #2 from selfteaching/master
+    
+    Synchronize files with upstream
+
+[33mcommit c0ad1c16f637949d4abad651bc5e16e4a129403f[m
+Merge: b3756a0 bd24763
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:47:48 2019 +0800
+
+    Merge pull request #197 from ljqbpm/from-ljqbpm
+    
+    minor typo
+
+[33mcommit b3756a07594f3c15a1a61d431b7722041d45df83[m
+Merge: 93463f1 7f76c1a
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:47:37 2019 +0800
+
+    Merge pull request #198 from wangbingfeng/master
+    
+    change elif r >= 2 and r > 7: to elif r > 7:
+
+[33mcommit 7f76c1abe42475bd4fb16220713a4bb12a72e33d[m
+Author: 王冰峰 <wangbingfeng@wangbingfengs-MacBook-Pro.local>
+Date:   Mon Mar 18 00:26:18 2019 +0800
+
+    change elif r >= 2 and r > 7: to elif r > 7:
+
+[33mcommit bd247630fba2f1c03cd6a66e900988bcfba3ed80[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Mon Mar 18 00:12:51 2019 +0800
+
+    minor typo
+    
+    不得不痛下决心去接收->
+    不得不痛下决心去接受
+
+[33mcommit 93463f15833062b3cc5fc18d7abcf439799e6efa[m
+Merge: 81d76c5 f709e40
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:06:46 2019 +0800
+
+    Merge pull request #188 from longzhineng/longzhineng
+    
+    程序运行结果不完全
+
+[33mcommit 81d76c587eaa4b3401fde2b0556d65f09f8cce09[m
+Merge: b414511 f3c60e3
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:03:30 2019 +0800
+
+    Merge pull request #189 from ljqbpm/from-ljqbpm
+    
+    Part.3.C的一处表达修改
+
+[33mcommit b414511f454c62487d9530fa71cca3be1d3ac800[m
+Merge: 9fdeb45 f8e86a1
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:03:16 2019 +0800
+
+    Merge pull request #190 from ljqbpm/from-Ljqbpm
+    
+    Part.3.C的一处标点修改
+
+[33mcommit 9fdeb456a93a546d6ef0a156ce413a8eebddfbd5[m
+Merge: 6df324e dd989f3
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:03:04 2019 +0800
+
+    Merge pull request #191 from gongchenz/patch-1
+    
+    修改更恰当的描述
+
+[33mcommit 6df324eb78f7c400474f63e59b553468da17d844[m
+Merge: b3fcf5a f1bc280
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:02:39 2019 +0800
+
+    Merge pull request #192 from ljqbpm/from-lJqbpm
+    
+    Part.3.C的一处表达修改
+
+[33mcommit b3fcf5a7691905fe57673247a5ab628b996fd8c1[m
+Merge: e471d90 27f3949
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:02:22 2019 +0800
+
+    Merge pull request #196 from ljqbpm/from-ljQbpm
+    
+    Part.3.C的一处表达修改
+
+[33mcommit e471d9060c0a89e13e3f9a4ac28d8a636fa50a8f[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:01:41 2019 +0800
+
+    fix typo
+
+[33mcommit 3934dcbdd3faea15ca43b190304d12214bc6fb3c[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Mon Mar 18 00:00:54 2019 +0800
+
+    add ref to oxford dictionary
+    
+    'themselves or themself?'
+
+[33mcommit 27f3949cfb49e2df95f5608de9108c043e0bbbba[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Mon Mar 18 00:00:26 2019 +0800
+
+    Part.3.C的一处表达修改
+    
+    分清的方法？->
+    分清概念的方法是什么？
+
+[33mcommit 09b60bc14c2a4507d4b806568c2a4dd743db9de2[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 23:58:03 2019 +0800
+
+    Part.3.C的一处表达修改
+    
+    分清的方法？->
+    分清概念的方法是什么？
+
+[33mcommit f709e40b88dff8f6fbb76ceb8f14d7fc34f6cc12[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 17 23:46:09 2019 +0800
+
+    同上的拼写错误
+    
+    这一句话本身没有问题，但是接在前一句后面的注释的话，应该还是用c_list[3]，应该更好理解
+
+[33mcommit f1bc280bf4e2ffdadbd81fd9291656fba8c5a4a9[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 23:33:45 2019 +0800
+
+    Part.3.C的一处表达修改
+    
+    我到底差哪儿了->
+    我到底差在哪儿了
+
+[33mcommit 8634af4d9caa84a76940e0575882371f2e301089[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 17 23:28:34 2019 +0800
+
+    拼写错误
+    
+    a_list -> c_list；
+    结合上下文，此处应该是c_list
+
+[33mcommit dd989f394f02b77b29747ca3fda59446ba46d312[m
+Author: gongchenz <gongchenzhang@qq.com>
+Date:   Sun Mar 17 23:26:32 2019 +0800
+
+    修改更恰当的描述
+    
+    将之前的描述修改成更准确的。
+
+[33mcommit f8e86a1d1601ef5239d3bc254b0d7a93eefc6a28[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 23:23:14 2019 +0800
+
+    Part.3.C的一处标点修改
+    
+    从“简单的函数开始”->
+    从“简单的函数”开始
+
+[33mcommit f3c60e38bb85f3412a565f591870c0f5acab239e[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 23:18:25 2019 +0800
+
+    Part.3.C的一处表达修改
+    
+    因为它其中涉及的概念 ->
+    因为其中涉及的概念
+
+[33mcommit ce7f5b6d8360719cfe06afc9e9ab81e793039c27[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 17 23:18:18 2019 +0800
+
+    程序运行结果不完全
+    
+    这个修改我不太确定，就是我在本地环境运行的时候显示的结果是显示了列表C的具体元素以及7是否在C中的逻辑运算，但是原来版本中只有最后一个运算的结果，为了没有本地环境运行的读者更好理解，应该显示出列表C的具体内容才能更好帮助他们理解，不知道这样对不对？
+
+[33mcommit 9e051ca70052f38cf2466d1e5c672b9c81ea4027[m
+Merge: 590067c 4792dee
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 21:42:37 2019 +0800
+
+    Merge pull request #177 from ljqbpm/from-ljqbpm
+    
+    重复字
+
+[33mcommit 590067c8917bf2e5be02902e75b3a6b993e7c050[m
+Merge: bd218d6 7b73c75
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 21:39:49 2019 +0800
+
+    Merge pull request #182 from ljqbpm/from-Ljqbpm
+    
+    更好的表达
+
+[33mcommit bd218d67b0947dca13a2657776b1bc8b0d7e0410[m
+Merge: 14cbec7 fc54af5
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 21:38:32 2019 +0800
+
+    Merge pull request #183 from ljqbpm/from-lJqbpm
+    
+    minor typo
+
+[33mcommit 14cbec7969ed8d8dd8600d9cbe3c27a1b990d4cb[m
+Merge: 9daef5c f3f3ef7
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 21:38:10 2019 +0800
+
+    Merge pull request #184 from linxixizhi/master
+    
+    Changed 等价与 to 等价于
+
+[33mcommit 9daef5cd890637612f493104ec66e58773094dd9[m
+Merge: 27de0cf bfbcc85
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 21:37:48 2019 +0800
+
+    Merge pull request #185 from ljqbpm/from-ljQbpm
+    
+    修改Part.3.C的一处表达
+
+[33mcommit bfbcc85d97bf3ab7f60f1f183988388c328c0c06[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 20:22:56 2019 +0800
+
+    修改Part.3.C的一处表达
+    
+    而每个语言实现分支循环语句句法多少有点差异 ->
+    而每个语言实现分支循环语句的语法多少有点差异
+
+[33mcommit f3f3ef73132aa29a344a2a5321d7bba7f0949c7c[m
+Author: linxixizhi <501963347@qq.com>
+Date:   Sun Mar 17 20:19:38 2019 +0800
+
+    Changed 等价与 to 等价于
+
+[33mcommit fc54af512762c8373a0aed46eda27f8ad784c429[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 20:12:13 2019 +0800
+
+    minor typo
+    
+    你就会“发现”拿东西其实也没多难 ->
+    你就会“发现”那东西其实也没多难
+
+[33mcommit 7b73c7510722835d1f813b71fb32d58ec7edc62e[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 19:39:55 2019 +0800
+
+    更好的表达
+    
+    书是最低成本的东西 ->
+    书是成本最低的东西
+
+[33mcommit 4792dee44cc6fea5889c331ddff00beca92ec4ab[m
+Author: 廖家庆 <ljqbpm@126.com>
+Date:   Sun Mar 17 16:40:05 2019 +0800
+
+    重复字
+    
+    第三部分所所用的例子依然非常简单
+    ->第三部分所用的例子依然非常简单
+
+[33mcommit 27de0cf3511e975bcac6b5255ae42875017d37fc[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 16:10:08 2019 +0800
+
+    change all "布林" into "布尔" to reduce confusions.
+
+[33mcommit 8aa2ca590bd06f44cda223f72af9da55d6dff511[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 16:07:03 2019 +0800
+
+    correct all occurencies of del() to del
+
+[33mcommit 5d70c4c310a49890ed49d4587874e81913607f07[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 16:01:32 2019 +0800
+
+    close two unclosed <a> tag in footnotes
+
+[33mcommit ef80f03616c89119a7eaa155573099eaedb1127c[m
+Merge: ede3c52 3d27b2e
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:59:04 2019 +0800
+
+    Merge pull request #172 from linxixizhi/master
+    
+    Changed karg to kwarg.
+
+[33mcommit 3d27b2ec3cd7770f6cb77043c4073a598d72feb7[m
+Merge: 959ae40 ede3c52
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:58:54 2019 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit ede3c52c2bb5fd1cc4fb60dc0949eb82a22b533c[m
+Merge: 09e5478 46aece0
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:55:18 2019 +0800
+
+    Merge pull request #156 from Zhouyinyun/from-shuaiba
+    
+    ts字母顺序修改
+
+[33mcommit 09e5478b3d8c0ce65ded0bb44f149c2bcbb3cb78[m
+Merge: 5b7f965 aceb926
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:54:42 2019 +0800
+
+    Merge pull request #158 from shuimu0579/master
+    
+    add <a/> label in Part.1.E.1.entrance.ipynb page
+
+[33mcommit 5b7f965ab779f1aaf745e6f619aaee82be5f26c3[m
+Merge: d8282df 993a11c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:54:07 2019 +0800
+
+    Merge pull request #159 from icearl/from-icearl
+    
+    fix: 源文件缩进由4格恢复为1格。
+
+[33mcommit d8282dfc4029c52e58c4b9393fbf16c6faba1fd8[m
+Merge: b76c50f a59dead
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:52:45 2019 +0800
+
+    Merge pull request #161 from yinqc/master
+    
+    Update Part.1.E.4.functions.ipynb
+
+[33mcommit b76c50fa4161f1ba290dff2dab5268bc503465fb[m
+Merge: d416808 c35a5e3
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:50:39 2019 +0800
+
+    Merge pull request #162 from longzhineng/master
+    
+    顿号缺失
+
+[33mcommit d4168083ccb7c7c233db4f479c2c9148b3ee735f[m
+Merge: eac7d76 6de775f
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:49:01 2019 +0800
+
+    Merge pull request #165 from icefog123/master
+    
+    错别字修改
+
+[33mcommit eac7d76e110273c6d6f727409f06e2f89fbb6ea3[m
+Merge: c37a3df 7ede03c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:48:40 2019 +0800
+
+    Merge pull request #166 from pad0van/master
+    
+    fix typo
+
+[33mcommit a59deadf5d2771eef19552026e34b71ee04d98ce[m
+Author: yinqc <damon.dut@gmail.com>
+Date:   Sun Mar 17 15:48:18 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    更新了注释及程序中的说明性内容
+
+[33mcommit c37a3dfd8fcb3ab6ec7be31e55a64cd1894ca704[m
+Merge: 37bcae3 09e31d1
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 15:47:49 2019 +0800
+
+    Merge pull request #168 from showa11/patch-1
+    
+    range 函数 step参数默认值 是 应该是1
+
+[33mcommit 959ae4055b20512e8d07e8cda22965e1bc1fa904[m
+Author: linxixizhi <501963347@qq.com>
+Date:   Sun Mar 17 15:43:31 2019 +0800
+
+    Changed karg to kwarg.
+
+[33mcommit 09e31d190dd48d4300b548edb7e7d7643e6a6acd[m
+Author: Boson <shibushishang@gmail.com>
+Date:   Sun Mar 17 14:47:18 2019 +0800
+
+    range 函数 step参数默认值 是 应该是1
+    
+    range 函数 step参数默认值 是 应该是1
+
+[33mcommit 7ede03ca12792c9a59a1c9a3ab6a7b40a738f16e[m
+Author: 巴都万 <46479117+pad0van@users.noreply.github.com>
+Date:   Sun Mar 17 14:38:35 2019 +0800
+
+    fix typo
+
+[33mcommit 6de775f68e0f6ae9967c37f8318831740fba209a[m
+Author: 连山 <i835816996@gmail.com>
+Date:   Sun Mar 17 13:28:40 2019 +0800
+
+    错别字修改
+    
+    将<干脆成为“做事哲学”的东西>中的“成为”改为“称为”
+
+[33mcommit c35a5e335b4c3f1f7da2fa502cc5f87d8f671970[m
+Author: longzhineng <45873686+longzhineng@users.noreply.github.com>
+Date:   Sun Mar 17 12:59:23 2019 +0800
+
+    顿号缺失
+    
+    结合上下文，应当是等差数列和元组，但是原文中可能由于手误并没有分开。
+
+[33mcommit 4ca58b23155b0184d54b6602990a5f96ca09014a[m
+Author: yinqc <damon.dut@gmail.com>
+Date:   Sun Mar 17 12:52:06 2019 +0800
+
+    Update Part.1.E.4.functions.ipynb
+    
+    错别字改正：将 Keyward 改为 Keyword
+
+[33mcommit 993a11c09211fbf57263d021010288b25397d50a[m
+Merge: 278f6b4 17e34b9
+Author: icearl <icearl@qq.com>
+Date:   Sun Mar 17 12:02:21 2019 +0800
+
+    Merge branch 'dev' into from-icearl
+    
+    merge from dev
+
+[33mcommit 278f6b4601509b2ded065dbcb5f7f9580de97a96[m
+Merge: 2a494bb 37bcae3
+Author: icearl <icearl@qq.com>
+Date:   Sun Mar 17 12:01:50 2019 +0800
+
+    Merge branch 'master' of github.com:selfteaching/the-craft-of-selfteaching into from-icearl
+    
+    update from upstream
+
+[33mcommit 17e34b9b178f30d8bc1a2cdf1b7957a2796ee93e[m
+Author: icearl <icearl@qq.com>
+Date:   Sun Mar 17 11:56:01 2019 +0800
+
+    fix: 源文件缩进由4格恢复为1格。该问题由https://github.com/selfteaching/the-craft-of-selfteaching/commit/d724e4ae8c53b3ced80a25351be217480f63e620\#diff-7e20c0fe2636753d5d6d5a0142cc6125  该次提交引入。
+
+[33mcommit aceb92658040960c4b9cb936d2610cc38b7edb23[m
+Author: apple <shuimu0579@gmail.com>
+Date:   Sun Mar 17 11:50:55 2019 +0800
+
+    add <a/> label in Part.1.E.1.entrance.ipynb page
+
+[33mcommit 46aece0dccdea027a4ad22b5af2454936c818141[m
+Author: zhouyinyun <zhouyinyun@gmail.com>
+Date:   Sun Mar 17 11:41:55 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    就是种 修改为  就是一种
+
+[33mcommit f692bb994756c6d78247a9919cda9e9cbdbcbebb[m
+Author: zhouyinyun <zhouyinyun@gmail.com>
+Date:   Sun Mar 17 11:18:04 2019 +0800
+
+    ts字母顺序修改
+    
+    "print(\"s.lower().startswith('S'):\", \\\n",
+        "      s.lower().startswith('S'))\n",
+        "print(\"s.lower().startswith('b'):\", \\\n",
+        "      s.lower().startswith('b', 10))\n",
+
+[33mcommit 37bcae3c11f3aff8f9f5fca115a8317f39639830[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Sun Mar 17 01:48:13 2019 +0800
+
+    fix hyperlink
+
+[33mcommit 36440c89f03cc4c1a50a97b52191d1138669c819[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Sun Mar 17 01:53:59 2019 +0800
+
+    remove redundant
+
+[33mcommit 2f83137bd6e30475cd41285157d513de3a24ea38[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Sun Mar 17 05:53:38 2019 +0800
+
+    fix parentheses
+
+[33mcommit de1d131b12dd2705602078e7b82c0a9755808809[m
+Merge: f36466e ebeefd2
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 09:27:35 2019 +0800
+
+    Merge pull request #152 from HarryYC/1.F-match-example
+    
+    Fix variable names in Part.1.F.deal-with-forward-references.ipynb
+
+[33mcommit ebeefd256c01946d51891ea2d5168ac5a6375c1f[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Sun Mar 17 07:44:44 2019 +0800
+
+    match example
+
+[33mcommit 179d79e8e86e6d05dd8e8db95fde1dc8677ea42a[m
+Merge: 1a2c20b f36466e
+Author: lxy0xff <48123640+lxy0xff@users.noreply.github.com>
+Date:   Sun Mar 17 04:28:32 2019 +0800
+
+    Merge pull request #1 from selfteaching/master
+    
+    sync
+
+[33mcommit f36466ef2ba6674dcd3a16917d95a2bc1e6b8875[m
+Merge: 2cc2ea2 07fd722
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 00:41:47 2019 +0800
+
+    Merge pull request #138 from xiehong5742/patch-1
+    
+    Update Part.1.E.2.values-and-their-operators.ipynb
+
+[33mcommit 2cc2ea2cb772c193d5c0840a89927f3bd7795366[m
+Merge: 59dee10 2cb88f3
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 00:41:10 2019 +0800
+
+    Merge pull request #139 from linxixizhi/master
+    
+    将创造者改为修改者
+
+[33mcommit 59dee104cf949630f4210ef644690ba9fbfcb6ac[m
+Merge: 815080c 3e15972
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sun Mar 17 00:40:37 2019 +0800
+
+    Merge pull request #141 from pad0van/master
+    
+    修改大学名称错误
+
+[33mcommit 3e15972e243f15ddeafa2224a531096020e9945c[m
+Author: 巴都万 <46479117+pad0van@users.noreply.github.com>
+Date:   Sun Mar 17 00:35:19 2019 +0800
+
+    fix typo
+
+[33mcommit 3de7905a6d5cfb7deb2642fe29fe480c38e0672f[m
+Author: 巴都万 <46479117+pad0van@users.noreply.github.com>
+Date:   Sun Mar 17 00:22:44 2019 +0800
+
+    修改大学名称错误
+
+[33mcommit 07fd72270bbdb75126cb75caa809d5d978b80c0f[m
+Author: xiehong5742 <34618770+xiehong5742@users.noreply.github.com>
+Date:   Sat Mar 16 23:20:51 2019 +0800
+
+    Update Part.1.E.2.values-and-their-operators.ipynb
+
+[33mcommit 2cb88f3bbc33243beb75cfa71ba4378bc28df80c[m
+Author: linxixizhi <501963347@qq.com>
+Date:   Sat Mar 16 23:19:08 2019 +0800
+
+    将创造者改为修改者
+
+[33mcommit 815080cf0b5be642606c60437bb2ef8e9b717ed9[m
+Author: 巴都万 <46479117+pad0van@users.noreply.github.com>
+Date:   Sat Mar 16 20:55:30 2019 +0800
+
+    修改表述错误
+
+[33mcommit efc1267308887bf222aa077f2c24848a28fb79f2[m
+Author: apple <shuimu0579@gmail.com>
+Date:   Sat Mar 16 22:20:01 2019 +0800
+
+    add shuimu0579-self-taught-stories
+
+[33mcommit a90c229e5cb4ae2a4d94074fc9bbd94ae7d1d515[m
+Author: Mark <48577301+ss412231878@users.noreply.github.com>
+Date:   Sat Mar 16 20:34:39 2019 +0800
+
+    Update T-appendix.editor.vscode.ipynb
+
+[33mcommit 6bae01408e8ea19843f9bdbb3fb7b28f6c2344a6[m
+Author: Mark <48577301+ss412231878@users.noreply.github.com>
+Date:   Sat Mar 16 20:33:06 2019 +0800
+
+    Windows系统不需要执行该命令
+    
+    "使用快捷键 `⇧⌘p` 呼出 Command Palette，在其中输入 `shell command`，而后选中 `Install 'code' command in PATH`。此后，就可以在 Terminal 命令行中使用 `code` 命令了。\n"
+    ->
+    "使用快捷键 `⇧⌘p` 呼出 Command Palette，在其中输入 `shell command`，而后选中 `Install 'code' command in PATH`。此后，就可以在 Terminal 命令行中使用 `code` 命令了。(Windows系统安装VS Code时会自动配置好，并不需要此步骤)\n"
+
+[33mcommit 5980913312ca3fcaab8d62aa20908ffbaf4ff34f[m
+Author: Mark <48577301+ss412231878@users.noreply.github.com>
+Date:   Sat Mar 16 20:03:45 2019 +0800
+
+    windows系统自带的terminal不能执行安装升级代码，附加说明可以节省时间
+    
+    "安装完毕之后，打开 Terminal，继续安装几个组件：\n", -> "安装完毕之后，打开 Terminal(Windows系统需要打开之前安装的Anaconda Prompt输入)，继续安装几个组件：\n",
+    
+    windows系统自带的terminal（cmd）不能执行安装升级代码，附加说明可能能帮助大家节省时间
+
+[33mcommit 7e23873c42ae46a1d5806b991d8c998e80129b61[m
+Merge: 58bad02 5d10212
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 17:44:11 2019 +0800
+
+    Merge pull request #123 from Zhouyinyun/from-shuaiba
+    
+    From shuaiba
+
+[33mcommit 58bad02c5e8190c24e4bec239396e3625e8e5ebb[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 17:43:23 2019 +0800
+
+    fix function name to fit PEP8
+
+[33mcommit d8f48b6cdde41865ad9b8b6e757f70496a131b42[m
+Merge: 9276640 a2fb5a2
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 17:41:21 2019 +0800
+
+    Merge pull request #122 from alexanderholman/patch-1
+    
+    One has no future if one couldn't teach themself.
+
+[33mcommit 5d102125fb5f9340c9f2b231a8b28c6b107047e5[m
+Author: zhouyinyun <zhouyinyun@gmail.com>
+Date:   Sat Mar 16 17:40:15 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    修改语句表述：
+    > 修改前：它接收且只一个整数作为参数
+    > 修改后：它接收且只接收一个整数作为参数
+
+[33mcommit 16ca71a83fb70a648c6c061b42dbd458f434f79e[m
+Author: zhouyinyun <zhouyinyun@gmail.com>
+Date:   Sat Mar 16 17:39:47 2019 +0800
+
+    Update Part.1.E.5.strings.ipynb
+    
+    修改语句表述：
+    > 修改前：它接收且只一个整数作为参数
+    > 修改后：它接收且只接收一个整数作为参数
+
+[33mcommit 92766407f4d9b1dfec09e791bd729ecfae3241ef[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 17:38:47 2019 +0800
+
+    修改笔误，一不小心把倪匡写死了……
+
+[33mcommit a2fb5a23cb0095ff808058a8012e66d4e3d548de[m
+Author: Alexander Holman <alexanderholman@users.noreply.github.com>
+Date:   Sat Mar 16 09:32:06 2019 +0000
+
+    Update README.md
+
+[33mcommit 5ec732f9870f04da8b8fd37285de48d2365314ac[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 17:30:15 2019 +0800
+
+    about "bug" in print() doc; two occurrences of orphan </a>
+
+[33mcommit bb6e8b83348d9787c1a6320b6a1d5a50a6aedeb8[m
+Merge: cc78283 a76daef
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 16:23:26 2019 +0800
+
+    Merge pull request #104 from Bailei/textTuning
+    
+    Fix one sentence to make it more readable
+
+[33mcommit cc7828377305909dbeb9e2cb1fdcb8738d776ed2[m
+Author: atang <longyangwillgofuther@gmail.com>
+Date:   Sat Mar 16 10:01:11 2019 +0800
+
+    修正快捷键使用的模式
+    
+     "| `^ ⇧ - `                                | 将当前 Cell 拆分为两个                                       | 编辑    |\n",
+    应在编辑模式下使用
+
+[33mcommit df6fbb084d6261c80f194d0275e1156864f2ca98[m
+Author: shevc07 <78662010@qq.com>
+Date:   Sat Mar 16 12:46:45 2019 +0800
+
+    fix comma missing
+
+[33mcommit e8f9025e8e9738d9a4f7beb646f7e422ac11159a[m
+Author: zhangyingping <44121342+yingpingzhang@users.noreply.github.com>
+Date:   Sat Mar 16 14:52:10 2019 +0800
+
+    修改错别字
+    
+    将swith修改为switch
+
+[33mcommit dc5a9f03f66427d57be94dd682684a7c72342588[m
+Author: zhangxingzhi <zhangxingzhizailushang@gmail.com>
+Date:   Sat Mar 16 15:10:23 2019 +0800
+
+    Fix: word spelling error
+
+[33mcommit 00a35d7992216e7416631fce195af4ac412d2545[m
+Author: Shizhe97 <35986159+Shizhe97@users.noreply.github.com>
+Date:   Sat Mar 16 14:01:34 2019 +0800
+
+    Update Part.1.E.1.entrance.ipynb
+    
+    参数后面的注释单词拼写有遗漏
+    paramters ->parameters
+
+[33mcommit a76daef2a006a5e34447051c581da0a54a6dde93[m
+Author: tfeng200 <tao_feng@comcast.com>
+Date:   Fri Mar 15 21:17:59 2019 -0700
+
+    Fix one sentence to make it more readable
+
+[33mcommit a3497e3f02b4c1781b42e2127900c8e758f3b45d[m
+Author: weihuang <whuang.nju@gmail.com>
+Date:   Fri Mar 15 19:46:59 2019 -0400
+
+    Update Part.2.D.7-tdd.ipynb
+    
+    Fixed an error on quotation mark scope.
+
+[33mcommit 376f48de2252f3f5a93f1bf6128f3d424441e838[m
+Author: linxixizhi <501963347@qq.com>
+Date:   Sat Mar 16 09:31:05 2019 +0800
+
+    修改个别字词
+
+[33mcommit 3b0f8f6be5908fd565a18ea8daf06583e127d7be[m
+Author: icearl <icearl@qq.com>
+Date:   Sat Mar 16 08:53:43 2019 +0800
+
+    Update Part.1.E.2.values-and-their-operators.ipynb
+    
+    fix：汉字后面的英文，前面加空格。
+
+[33mcommit dae52f943733a37fe281b257d2e5e320bcaf11c6[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 10:10:13 2019 +0800
+
+    remove camelCase function naming to fit PEP8
+
+[33mcommit 2a494bb509cc97216fdce0d0dde0a145f95c902a[m
+Author: icearl <icearl@qq.com>
+Date:   Sat Mar 16 08:53:43 2019 +0800
+
+    Update Part.1.E.2.values-and-their-operators.ipynb
+    
+    fix：汉字后面的英文，前面加空格。
+
+[33mcommit 34bb3590057fe369cc9aa87fad3245e0b5dae597[m
+Merge: 5549add f071c14
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 02:04:14 2019 +0800
+
+    Merge pull request #93 from liujuanjuan1984/master
+    
+    update how-to-merge guideline
+
+[33mcommit 5549add8deb5be45f8ba7ada0b3f22be18dc67e4[m
+Merge: 8719541 8c75d77
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 02:04:00 2019 +0800
+
+    Merge pull request #90 from github-proxy/from-your.fan
+    
+    修改1个错别字
+
+[33mcommit 87195411c52d337f2ea90fc07120cc1586dcb7e7[m
+Merge: 0ce9050 bec3362
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 02:03:44 2019 +0800
+
+    Merge pull request #92 from liudao1991/master
+    
+    Update 02.proof-of-work.ipynb
+
+[33mcommit f071c1452c6df7530e1d505a9487814e822c73bf[m
+Author: liujuanjuan1984 <liujuanjuan1984@gmail.com>
+Date:   Sat Mar 16 02:00:50 2019 +0800
+
+    update how-to-merge guideline
+
+[33mcommit 10f86f0a809e9609ff4f95014cfccec25c6228b5[m
+Author: liujuanjuan1984 <liujuanjuan1984@gmail.com>
+Date:   Sat Mar 16 01:55:04 2019 +0800
+
+    update how-to-merge guideline
+
+[33mcommit b83fd8037903af72cca85eed2ab8f1bb899ff34f[m
+Author: liujuanjuan1984 <liujuanjuan1984@gmail.com>
+Date:   Sat Mar 16 01:48:28 2019 +0800
+
+    update how-to-merge guideline
+
+[33mcommit bec33627ce9476ce622fc19e7fd71e38e767988b[m
+Author: liudao <416333021@qq.com>
+Date:   Sat Mar 16 01:45:29 2019 +0800
+
+    更好的表述
+    
+    因为git并非由github.com创造，所以此处"这个网站以及它所提供的工具"的描述建议改为"这个网站以及版本控制工具"。
+    （git比github出生的早，git由linux创始人Torvalds创作而成。github.com的核心部分使用了git处理。）
+
+[33mcommit 0ce90508be2a892967ba334eba95b237e9b7ec65[m
+Merge: d45bc9f d724e4a
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 01:32:51 2019 +0800
+
+    Merge pull request #89 from junty90/junty90
+    
+    Update Part.1.E.2.values-and-their-operators.ipynb
+
+[33mcommit 8c75d77e2aa0e3ef18973441ba5cdcced0db0dd1[m
+Author: aFreshman <33684396+github-proxy@users.noreply.github.com>
+Date:   Sat Mar 16 01:32:35 2019 +0800
+
+    修改1个错别字
+    
+    原文本写到“虽然我是因为改用了 Mac OS，所以不管杀毒软件”，可将“不管”改为“不装”。
+
+[33mcommit a9a6e03273b41ba5663e7116765c4b23217d7a1b[m
+Merge: fd0e77c d45bc9f
+Author: liudao <416333021@qq.com>
+Date:   Sat Mar 16 01:21:39 2019 +0800
+
+    Merge pull request #1 from selfteaching/master
+    
+    更新数据
+
+[33mcommit d45bc9fead1bbc3568d7f7531d7e33bb419a11fe[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 01:20:32 2019 +0800
+
+    add link to time-as-a-friend
+
+[33mcommit d724e4ae8c53b3ced80a25351be217480f63e620[m
+Author: junty90 <junty90@gmail.com>
+Date:   Sat Mar 16 01:10:36 2019 +0800
+
+    Update Part.1.E.2.values-and-their-operators.ipynb
+    
+    375 行 "逻辑操作符的优先级，高于布尔值的操作符，低于数值计算的操作符。" 结尾缺少 “ , ” 逗号
+
+[33mcommit 4d3453399140d69b380f0b8bbf68beb16dd7f2ad[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 01:08:58 2019 +0800
+
+    add link to https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way
+
+[33mcommit 342725ce548889fc76d9909eef615291e2cf44fb[m
+Merge: 0957528 97af359
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 01:04:29 2019 +0800
+
+    Merge pull request #87 from Leask/master
+    
+    adding leask-self-taught-stories.md
+
+[33mcommit 09575284c6f990ce5db56c04957a0d3eb2dbc5cd[m
+Merge: f06d110 fd0e77c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 01:03:46 2019 +0800
+
+    Merge pull request #88 from liudao1991/master
+    
+    前言语句校对
+
+[33mcommit 97af359a5f3402df9f62813039ab96e1f82ad6b0[m
+Author: Leask Wong <i@leaskh.com>
+Date:   Fri Mar 15 12:56:45 2019 -0400
+
+    [45.357432,-75.634429] tweak from-readers/leask-self-taught-stories.md
+
+[33mcommit f06d11096880a72e045ad4319bde1e6b33722667[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 00:54:15 2019 +0800
+
+    update links for everyone-can-use-english, and ji
+
+[33mcommit 5b473e2f35cd461b253d2569deea4400649b8ced[m
+Author: Leask Wong <i@leaskh.com>
+Date:   Fri Mar 15 12:53:04 2019 -0400
+
+    [45.357439,-75.634392] adding leask-self-taught-stories.md
+
+[33mcommit fd0e77caea1217490673da489bda1a280e992086[m
+Author: liudao <416333021@qq.com>
+Date:   Sat Mar 16 00:47:42 2019 +0800
+
+    前言语句校对
+    
+    151行  "开始在新东方开始教书那年" 建议修改为 "开始在新东方教书那年"
+
+[33mcommit a0b8c449707a96f55a33242157404d8e3081d3ba[m
+Merge: 76e4af9 310ba4c
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 00:05:26 2019 +0800
+
+    Merge pull request #83 from awper361/from-awper361
+    
+    A bit polishment for Part.1.A.better.teachyourself.ipynb
+
+[33mcommit 76e4af9db6b026227dd9b7c3facf884a382b0800[m
+Merge: 1a2c20b 4de417e
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Sat Mar 16 00:04:59 2019 +0800
+
+    Merge pull request #82 from liujuanjuan1984/master
+    
+    update liujuanjuan's story
+
+[33mcommit 310ba4c1ac0365a7e3c5e1707b2e1df083003a45[m
+Author: awper361 <awper361@gmail.com>
+Date:   Fri Mar 15 23:05:35 2019 +0800
+
+    1) Adds label for  in image2, and re-generates image2; 2) Fixes code sytle issues;
+
+[33mcommit 4de417e9ff95f7c27adf0f070878beaf05ebd99b[m
+Author: liujuanjuan1984 <liujuanjuan1984@gmail.com>
+Date:   Fri Mar 15 23:03:07 2019 +0800
+
+    update liujuanjuan's story
+
+[33mcommit 1a2c20b717ae35c1d0f15cd5e759913f04fe174b[m
+Merge: ffbf5c7 6db10fc
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 22:38:20 2019 +0800
+
+    Merge pull request #80 from yoursmengle/master
+    
+    标点符号修改
+
+[33mcommit ffbf5c756613bfcc3364b08a3714784718b037cc[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 22:28:23 2019 +0800
+
+    sayHi -> say_hi
+
+[33mcommit 6db10fc043347d994eaf4762ec7980ebc1602e2f[m
+Author: zhoujihui <zhoujihui@gmail.com>
+Date:   Fri Mar 15 22:27:03 2019 +0800
+
+    行尾的冒号使用错误，改为句号。
+
+[33mcommit ea9f28451ca99612bb1506d8cec20c48e6c46300[m
+Author: 张三九 <48576553+zhang39@users.noreply.github.com>
+Date:   Fri Mar 15 18:30:57 2019 +0800
+
+    修改 前言 中的一处表述
+    
+    第 44 行 建议修改为：
+    
+    只不过，这一次我阐述地更具体 —— 不是“学会学习”，而是“学会自学” —— 这一点点的变化，让十多年前没写顺的东西，终于在这一次迎刃而解，自成体系。
+
+[33mcommit 9fe439738258807a6700c66534db1ba9b6ce10c2[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 19:36:33 2019 +0800
+
+    remove Yixuan_my_note.md, content somewhat irrelavent
+
+[33mcommit bc33ecf2540e1ae77b7fca2ca5e67a1769293848[m
+Merge: 9b09f83 9f018a1
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 19:30:36 2019 +0800
+
+    Merge pull request #69 from raimonfuns/master
+    
+    add Junhong's self teaching story
+
+[33mcommit 9b09f831b82f1ffbd0191125962cc18091de34bf[m
+Merge: d60d228 ab1562d
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 19:30:06 2019 +0800
+
+    Merge pull request #74 from awper361/from-awper361
+    
+    Nit: left space before comma.
+
+[33mcommit ab1562dfdf9646223bc0bdfcf74a4876734c9453[m
+Author: awper361 <awper361@gmail.com>
+Date:   Fri Mar 15 18:58:28 2019 +0800
+
+    Nit: left space before comma.
+
+[33mcommit 9fabb38938a5a8d3b542a1fadeaf5db2abc4a8e7[m
+Author: awper361 <awper361@gmail.com>
+Date:   Fri Mar 15 18:56:27 2019 +0800
+
+    Nit: left space before comma.
+
+[33mcommit 9f018a15240ba16f007dd7bdf8bdaeec5a65ed5d[m
+Author: Junhong <raimonfuns@gmail.com>
+Date:   Fri Mar 15 18:24:31 2019 +0800
+
+    add Junhong's self teaching story
+
+[33mcommit d60d22847af159295f2e577b2ae5c2bee4a36fd3[m
+Merge: 1203b7b d56fdc2
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 18:12:20 2019 +0800
+
+    Merge pull request #63 from QLWeilcf/val_and_opts
+    
+    修改values-and-their-operators中容器列表更自然的表达
+
+[33mcommit 1203b7bb55fc249539f7c80dff7bb0e8c225418b[m
+Merge: ccebed2 6fee1fa
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 18:11:58 2019 +0800
+
+    Merge pull request #64 from YixuanFranco/master
+    
+    Add a "markdown" version of personal note into my-notes folder.
+
+[33mcommit ccebed23065e664c056d725749af23b741ac88e6[m
+Merge: d52de46 f19cfa5
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 18:11:02 2019 +0800
+
+    Merge pull request #65 from yingpingzhang/master
+    
+    update README
+
+[33mcommit d52de46cf13f0c0cc2e86f6ada59406446b5c610[m
+Merge: 80d1e9a cdd1e3e
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 18:10:40 2019 +0800
+
+    Merge pull request #66 from liujuanjuan1984/master
+    
+    update better way to understand and fix text errors
+
+[33mcommit cdd1e3ef2f96ad63f6a243600a652e2569d7ddba[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 17:58:26 2019 +0800
+
+    add file how to merge
+
+[33mcommit 7dc0e36b2a8b1e8a3fd61a4e0a7ece47c1e623bf[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 17:34:34 2019 +0800
+
+    update
+
+[33mcommit 1d921b7c15bde58f3ab31a72e1e26dd3ef6bdb3d[m
+Merge: 850766c 80d1e9a
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 17:31:06 2019 +0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit f19cfa543a740d212c6b225ad1d602c8903516ab[m
+Author: zhangyingping <44121342+yingpingzhang@users.noreply.github.com>
+Date:   Fri Mar 15 17:12:11 2019 +0800
+
+    Update README.md
+
+[33mcommit 40872aac34bf2082d0b02dcbd02f3ba8a2965a21[m
+Author: zhangyingping <44121342+yingpingzhang@users.noreply.github.com>
+Date:   Fri Mar 15 17:11:43 2019 +0800
+
+    Update README.md
+
+[33mcommit 6fee1fa8825aa0d8cd38138c6b678bc9220902f0[m
+Author: YixuanFranco <liyixuan5402@gmail.com>
+Date:   Fri Mar 15 16:49:00 2019 +0800
+
+    Add personal note into my-notes folder
+
+[33mcommit d56fdc20cf357c0fd91d879a3f9d36b5b8365b1f[m
+Author: QLWeilcf <1226824818@qq.com>
+Date:   Fri Mar 15 16:48:16 2019 +0800
+
+    修改values-and-their-operators中容器列表更自然的表达
+    
+    我们先简单接触一下另外一种容器列表（List） -> 我们先简单接触一下另外一种容器：**列表**（List）
+
+[33mcommit 80d1e9aa7625a8f5c56340bb7b6c6bf7fae8cb83[m
+Merge: ffe70fc 571618b
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 16:43:37 2019 +0800
+
+    Merge pull request #62 from QLWeilcf/entrance
+    
+    修改Part.1.E.1.entrance中的请展示忽略以上两句的原理
+
+[33mcommit 571618bfb7d56b12ea2ce4de418346dde717db26[m
+Author: QLWeilcf <1226824818@qq.com>
+Date:   Fri Mar 15 16:42:12 2019 +0800
+
+    修改Part.1.E.1.entrance中的请展示忽略以上两句的原理
+    
+    请展示忽略以上两句的原理 应为：请暂时忽略以上两句的原理；
+
+[33mcommit 6d4c8d7d59025319e1a449848f98c7a82dc68704[m
+Author: YixuanFranco <liyixuan5402@gmail.com>
+Date:   Fri Mar 15 16:40:41 2019 +0800
+
+    add yixuan personal notes
+
+[33mcommit ffe70fc14b77e15bdd641a0f14f918ac3ede3c7a[m
+Merge: d5b287f 83c50c4
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 16:05:33 2019 +0800
+
+    Merge pull request #58 from yongchengzhao/by.zhaochengyong
+    
+    优化代码
+
+[33mcommit 83c50c41686743b9bf71a0ec8d3e28ea785b0ffd[m
+Author: yongchengzhao <yongchengzhao@126.com>
+Date:   Fri Mar 15 16:00:49 2019 +0800
+
+    优化代码
+    
+    data[len(data) - 1] 等效于 data[-1]。
+
+[33mcommit 850766c12a7f8beaee13b9adf0e2a566fbd56bbd[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 15:51:30 2019 +0800
+
+    update better way to understand
+
+[33mcommit 98acacd1c155a6efc2c20d531d8f5b3509da090e[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 15:04:17 2019 +0800
+
+    fix text errors
+
+[33mcommit d5b287f79c6ddb2df31d0a6eb8dc78bc7ce8a429[m
+Merge: 6b07804 10c9b8f
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 14:45:25 2019 +0800
+
+    Merge pull request #39 from liujuanjuan1984/master
+    
+    update ,maybe a better way to understand
+
+[33mcommit 6b078040255edef30cef48a393b4750199385ac6[m
+Merge: ae5824d 7bebefb
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 14:44:28 2019 +0800
+
+    Merge pull request #37 from HarryYC/from-HarryYC
+    
+    Fix hyperlink in Part.1.D.preparation.for.reading.ipynb
+
+[33mcommit ae5824d73792bc7cf99aac12f19dc21ee1ae80a6[m
+Merge: bf52f37 1194164
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 14:44:09 2019 +0800
+
+    Merge pull request #38 from linxixizhi/master
+    
+    修改一处字符
+
+[33mcommit 10c9b8f54d39f79a34c579cfa20a39af93918151[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 14:13:11 2019 +0800
+
+    update,better way to understand
+
+[33mcommit 5f36ce44f23912285d58290d490b46c7fec78847[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 13:43:42 2019 +0800
+
+    update ,maybe a better way to understand
+
+[33mcommit 1194164a5468af328017f85d3ab4b5f72e99368a[m
+Author: Oliver Hwang <31330732+linxixizhi@users.noreply.github.com>
+Date:   Fri Mar 15 13:25:14 2019 +0800
+
+    修改一处字符
+    
+    将`Part.1.E.5.strings.ipynb`中的`字符串总第一个字符`改为`字符串总第一个字符`
+
+[33mcommit 7bebefb09feb36b533f9405d27de7c0780ae2ad3[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Fri Mar 15 13:08:04 2019 +0800
+
+    fix hyperlink
+
+[33mcommit bf52f37d15b2e1b45c935de4be552727faf7852f[m
+Author: HarryYC <sssbug@gmail.com>
+Date:   Fri Mar 15 12:20:39 2019 +0800
+
+    typo
+
+[33mcommit 128d84b9a6ea417efd55a4ce27d151710f343b05[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 12:13:37 2019 +0800
+
+    fix text errors
+
+[33mcommit 161880b9285eec5b9a82f1c013c10baf2ddb6d96[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 11:56:00 2019 +0800
+
+    debug
+
+[33mcommit 41ad2fcf2df53d2916eddbdc103a8c8a59bdb975[m
+Author: zhangxiaotao <31545994@qq.com>
+Date:   Fri Mar 15 11:28:11 2019 +0800
+
+    update my-notes
+    
+    缺少了这个文件夹。
+
+[33mcommit 0056a91c4ed85bce9d482c5983b0a71552d27410[m
+Author: 刘娟娟984 <qiaoanlu@163.com>
+Date:   Fri Mar 15 11:22:58 2019 +0800
+
+    add readers story from liujuanjuan
+
+[33mcommit 8ddd975cfb8279276aca235551608a139a66a342[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 10:59:30 2019 +0800
+
+    update some references in Part.1.D.preparation.for.reading.ipynb
+
+[33mcommit 3662ad732e51ff91711e5754e99fb99054339dcd[m
+Author: Lyric Wai <5h3ll3x@gmail.com>
+Date:   Fri Mar 15 10:40:19 2019 +0800
+
+    Fix image path.
+
+[33mcommit 402718892b9bbfc0119b0e4a2dc39318af84ea04[m
+Author: Wei <5h3ll3x@gmail.com>
+Date:   Fri Mar 15 10:35:32 2019 +0800
+
+    add lyric's self teaching stories.
+
+[33mcommit d74eaee1373c7fb2dbf2fcf6ba2bdfd7612d328a[m
+Author: Zoom.Quiet <zoomquiet+git@gmail.com>
+Date:   Fri Mar 15 08:42:42 2019 +0800
+
+    fix(.gitignore) ++ .python-version
+
+[33mcommit f61cff75aadf5138de697450e05f33b603c1e4a9[m
+Author: Reason <chinachenweizhen@gmail.com>
+Date:   Fri Mar 15 03:39:36 2019 +0800
+
+    Update Part.1.C.must.learn.sth.only.by.reading.ipynb
+    
+    minor
+
+[33mcommit 77968b76b72fb2eb930e738282ef39df06583f70[m
+Author: gold-time <48235670+gold-time@users.noreply.github.com>
+Date:   Fri Mar 15 04:11:08 2019 +0800
+
+    Update T-appendix.jupyter-installation-and-setup.ipynb
+    
+    120行到123行代码
+    120. "c.NotebookApp.token = ''\n",
+    121. "c.NotebookApp.open_browser = False\n",
+    122. "c.NotebookApp.notebook_dir = '~/'\n",
+    123. "# c.NotebookApp.default_url = '/tree'\n",
+    报错。
+    建议修改为：
+    120. "#c.NotebookApp.token = ''\n",
+    121. "#c.NotebookApp.open_browser = False\n",
+    122. "#c.NotebookApp.notebook_dir = '~/'\n",
+    123. "#c.NotebookApp.default_url = '/tree'\n",
+
+[33mcommit 27a3f5d75fe5bb29724de82f43250142ac793853[m
+Author: gold-time <48235670+gold-time@users.noreply.github.com>
+Date:   Fri Mar 15 03:44:43 2019 +0800
+
+    Update 02.proof-of-work.ipynb
+    
+    90行“仓库里还有一个另外一个目录”改为“仓库里还有另外一个目录”
+
+[33mcommit 955539883618af1815e9747d6e30de739981f515[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 03:30:07 2019 +0800
+
+    reformat 02.proof-of-work.ipynb
+
+[33mcommit c104f6979b3a530cdc4275263cf729da6c3dbaa6[m
+Author: Eric Zhang <i@qinix.com>
+Date:   Fri Mar 15 02:04:24 2019 +0800
+
+    add zhangqi's self-taught stories
+
+[33mcommit 50281e3508ccb1145df2e8bf87d3bb32d0701955[m
+Author: gitbasictutorial <48478233+gitbasictutorial@users.noreply.github.com>
+Date:   Fri Mar 15 02:47:23 2019 +0800
+
+    Update README.md
+    
+    somthing -> something;
+    add link ```https://github.com/jupyterlab/jupyterlab`` to Jupyterlab
+
+[33mcommit 13528b9a4c00e6e88886d1af7f300cfe2c10f80e[m
+Author: Reason <chinachenweizhen@gmail.com>
+Date:   Fri Mar 15 02:48:24 2019 +0800
+
+    Update Part.2.D.1-args.ipynb
+    
+    minor
+
+[33mcommit 8c313e265a9d6695138b1624ab2fefa52dceed0d[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 03:20:44 2019 +0800
+
+    modify images in 02.proof-of-work.ipynb
+
+[33mcommit 49cb4a77f28e7e64866ef6582c019f72a934a2cb[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 02:42:19 2019 +0800
+
+    Update 02.proof-of-work.ipynb
+    
+    change ```https://github.com/xiaolai/the-craft-of-selfteaching``` to  ```https://github.com/selfteaching/the-craft-of-selfteaching```
+
+[33mcommit 65a88a2df31117960775dae2ce13187f72105e2e[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 02:35:11 2019 +0800
+
+    Update CC-BY-NC-ND_license.md
+    
+    rectify the title
+
+[33mcommit 916ac16dfe75bdb8c2d2217eb2ed9eb280909b6c[m
+Author: engineerWang <289509175@qq.com>
+Date:   Fri Mar 15 02:20:37 2019 +0800
+
+    Update Part.1.A.better.teachyourself.ipynb
+    
+    边学习边矫正错别字😊
+
+[33mcommit aeb97ac9f842b7bd967f9c7c91cd5464f4119bed[m
+Author: engineerWang <289509175@qq.com>
+Date:   Fri Mar 15 01:58:59 2019 +0800
+
+    Update 00.cover.ipynb
+    
+    强迫症看不得这个😂
+
+[33mcommit 69e77d79422f305a71cd77a4c581d589caba26e1[m
+Author: engineerWang <289509175@qq.com>
+Date:   Fri Mar 15 01:40:23 2019 +0800
+
+    Update 02.proof-of-work.ipynb
+    
+    错别字修改
+
+[33mcommit 2d7a4d4131dbc433eb8923a6c905c809209af148[m
+Author: yucheel <616085781@qq.com>
+Date:   Fri Mar 15 01:44:11 2019 +0800
+
+    some minors
+
+[33mcommit 7a66dcd03fa3cd099b324806b51f8b5b58b1b542[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Fri Mar 15 00:42:24 2019 +0800
+
+    fix wrong word
+
+[33mcommit e1edcc04df57ab50077f44c48b37fca5a8c19748[m
+Author: xiaolai <lixiaolai@gmail.com>
+Date:   Thu Mar 14 22:31:05 2019 +0800
+
+    first commit
